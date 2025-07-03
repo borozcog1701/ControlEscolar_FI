@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    overflow: hidden; /* Evita el desplazamiento de la página */
+}
+.login-container {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    width: 20%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    transform: translateY(-30px); /* Comienza desplazado hacia arriba */
+    animation: slideDown 0.5s forwards; /* Aplica la animación */
+}
+@keyframes slideDown {
+    from {
+        transform: translateY(-30px); /* Comienza desde arriba */
+        opacity: 0; /* Comienza invisible */
+    }
+    to {
+        transform: translateY(0); /* Termina en su posición original */
+        opacity: 1; /* Termina visible */
+    }
+}
+.login-container h2 {
+    margin-bottom: 20px;
+    text-align: center; /* Centra el título */
+}
+.input-container {
+    position: relative; /* Para posicionar el ícono */
+}
+.input-container i {
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #ccc; /* Color del ícono */
+}
+.login-container input {
+    width: 86%;
+    padding: 10px 10px 10px 40px; /* Espacio para el ícono */
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+.login-container button {
+    width: 100%;
+    padding: 10px;
+    background-color: #005b5c;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.login-container button:hover {
+    background-color: #4cae4c;
+}

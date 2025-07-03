@@ -1,0 +1,63 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+  color: #005b5c; /* Verde UAEM */
+  text-align: center;
+  padding: 20px;
+  margin: 0;
+}
+.container2 {
+  max-width: 500px;
+  margin: auto;
+  padding: 20px;
+  border: 2px solid #005b5c; /* Verde UAEM */
+  border-radius: 10px;
+  background-color: #f0f0f0;
+}
+input[type="text"] {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #005b5c; /* Verde UAEM */
+  border-radius: 5px;
+}
+button {
+  background-color: #005b5c; /* Verde UAEM */
+  color: white;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  width: 100%;
+}
+button:hover {
+  background-color: #004d4e; /* Un tono más oscuro de verde */
+}
+.container {
+  width: 90%;
+  height: auto;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+@media (max-width: 600px) {
+  .nombre-alumno {
+    font-size: 1.5em; /* Tamaño reducido para dispositivos móviles */
+  }
+  .container {
+    height: auto;
+  }
+}
+
+.admin-link {
+  opacity: 0;
+  float: right;
+  transition: opacity 0.3s ease;
+}
+
+.admin-link:hover {
+  opacity: 1;
+}
+
+.btnFichas {
+  display: none;
+}

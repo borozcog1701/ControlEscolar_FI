@@ -1,0 +1,26 @@
+.container {
+    width: 90%;
+    height: 100vh;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+
+  .table-container {
+    position: relative;
+    border: 1px solid #dee2e6;
+    border-radius: 4px;
+  }
+
+  #excelData thead {
+    position: sticky;
+    top: 0;
+    background-color: #fff;
+    z-index: 1;
+  }
+
+  #excelData td, #excelData th {
+    white-space: nowrap;
+    padding: 8px;
+  }
+  .filaBoton{
+    margin-bottom: 15px;
+  }
