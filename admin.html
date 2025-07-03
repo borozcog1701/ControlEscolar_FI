@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Document</title>
+  <link rel="stylesheet" href="css/admin.css" />
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" />
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  <script>
+    function checkAccess() {
+      const accessToken = sessionStorage.getItem('accessToken');
+      //console.log('Token en admin:', accessToken);
+
+      if (!accessToken) {
+        //console.log('No hay token, redirigiendo...');
+        Swal.fire({
+          icon: 'error',
+          title: 'Acceso Denegado',
+          text: 'Debe iniciar sesión primero',
+          confirmButtonText: 'Ir a Login'
+        }).then((result) => {
+          window.location.href = 'login.html';
+        });
+      } else {
+        //console.log('Acceso permitido');
+      }
+    }
+
+    window.onload = checkAccess;
+  </script>
+</head>
+
+<body>
+  <div class="container">
+    <header style="text-align: center; margin-bottom: 20px;">
+      <div class="row">
+        <div class="col-12 col-md-4">
+          <!-- Cambiado a col-12 para ser responsivo en pantallas pequeñas -->
+          <img src="img/uamex.jpg" alt="Universidad Autonoma del Estado de México" style="width: 120px; margin: 0 10px;"
+            class="img-fluid" />
+        </div>
+        <div class="col-12 col-md-4 d-flex flex-column justify-content-center" style="height: 100%; padding-top: 15px;">
+          <!-- Cambiado a col-12 para ser responsivo en pantallas pequeñas -->
+          <h2>Facultad de Ingeniería</h2>
+          <h4><a href="index.html"> Fichas de Reinscripción</a></h4>
+        </div>
+        <div class="col-12 col-md-4">
+          <!-- Cambiado a col-12 para ser responsivo en pantallas pequeñas -->
+          <img src="img/ing.png" alt="Facltad de Ingeniería" class="img-fluid" style="max-width: 70%;" />
+
+        </div>
+      </div>
+      <div class="row">
+        <!-- Agregar botón de cerrar sesión -->
+        <div class="col-12 d-flex justify-content-end">
+          <button id="deleteBtn" class="btn btn-warning mt-1 me-2 pe-3">
+            Borrar Registros
+          </button>
+          <button id="logoutBtn" class="btn btn-danger mt-1">
+            Cerrar Sesión
+          </button>
+        </div>
+      </div>
+    </header>
+    <br />
+    <div class="row">
+      <div class="col-2">Archivo a cargar:</div>
+      <div class="col-8"><input type="file" id="fileInput" /></div>
+    </div>
+    <div class="row filaBoton">
+      <div class="col-12">
+        <div class="table-container" style="max-height: 360px; overflow-y: auto;">
+          <table id="excelData" class="table table-hover table-responsive-md" style="width: 100%; margin-bottom: 0;">
+          </table>
+        </div>
+      </div>
+    </div>
+
+
+    <div class="row" id="sendDataRow" style="display: none;">
+      <div class="col-4"></div>
+      <div class="col-4">
+        <!-- Agregado botón para enviar datos a la base de datos -->
+        <button id="sendData" class="btn btn-primary">
+          Enviar a la base de datos
+        </button>
+      </div>
+      <div class="col-4"></div>
+    </div>
+  </div>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.17.0/xlsx.full.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  <script>
+    document
+      .getElementById("fileInput")
+      .addEventListener("change", handleFile, false);
+
+    // Agregado evento para el botón de enviar datos
+    document
+      .getElementById("sendData")
+      .addEventListener("click", sendTableDataToDatabase);
+
+    function handleFile(event) {
+      const file = event.target.files[0];
+      const reader = new FileReader();
+      reader.onload = function (e) {
+        const data = new Uint8Array(e.target.result);
+        const workbook = XLSX.read(data, { type: "array" });
+        const firstSheetName = workbook.SheetNames[0];
+        const worksheet = workbook.Sheets[firstSheetName];
+        const html = XLSX.utils.sheet_to_html(worksheet);
+        document.getElementById("excelData").innerHTML = html;
+
+        // Mostrar el botón solo después de cargar el archivo
+        document.getElementById("sendDataRow").style.display = "flex";
+      };
+      reader.readAsArrayBuffer(file);
+    }
+
+
+    function sendTableDataToDatabase() {
+      const table = document.getElementById("excelData");
+      const rows = Array.from(table.getElementsByTagName("tr"));
+      const data = rows.map((row) => {
+        const cells = Array.from(row.getElementsByTagName("td"));
+        return cells.map((cell) => cell.innerText);
+      });
+
+      fetch("php/send_table_data.php", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(data),
+      })
+        .then((response) => response.text())
+        .then((data) => {
+          Swal.fire({
+            position: "top-end",
+            icon: "success",
+            title: "Datos Guardados",
+            showConfirmButton: false,
+            timer: 1500,
+          });
+          //console.log(data);
+          //alert("Datos de la tabla enviados exitosamente.");
+        })
+        .catch((error) => {
+          Swal.fire({
+            position: "top-end",
+            icon: "success",
+            title: "Error al cargar los datos",
+            showConfirmButton: false,
+            timer: 1500,
+          });
+          //console.error("Error:", error);
+          //alert("Error al enviar los datos de la tabla.");
+        });
+    }
+
+    // Agregar función de cerrar sesión
+    document.getElementById('logoutBtn').addEventListener('click', function () {
+      sessionStorage.removeItem('accessToken');
+      Swal.fire({
+        icon: 'success',
+        title: 'Sesión Cerrada',
+        text: 'Has cerrado sesión exitosamente',
+        confirmButtonText: 'OK'
+      }).then((result) => {
+        window.location.href = 'login.html';
+      });
+    });
+
+    // Agregar función para borrar registros
+    document.getElementById('deleteBtn').addEventListener('click', function() {
+      Swal.fire({
+        title: '¿Estás seguro?',
+        text: "Esta acción no se puede revertir",
+        icon: 'warning',
+        showCancelButton: true,
+        confirmButtonColor: '#3085d6',
+        cancelButtonColor: '#d33',
+        confirmButtonText: 'Sí, borrar',
+        cancelButtonText: 'Cancelar'
+      }).then((result) => {
+        if (result.isConfirmed) {
+          fetch('php/borrar.php', {
+            method: 'POST'
+          })
+          .then(response => response.text())
+          .then(data => {
+            Swal.fire(
+              '¡Borrado!',
+              'Los registros han sido eliminados.',
+              'success'
+            );
+          })
+          .catch(error => {
+            Swal.fire(
+              'Error',
+              'Hubo un problema al borrar los registros.',
+              'error'
+            );
+          });
+        }
+      });
+    });
+  </script>
+</body>
+
+</html>

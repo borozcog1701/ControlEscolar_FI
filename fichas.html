@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Consulta de Inscripción</title>
+    <link rel="stylesheet" href="css/estilo.css" />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+    />
+  </head>
+  <body>
+    <div
+      class="container"
+    >
+      <header style="text-align: center; margin-bottom: 20px;">
+        <div class="row">
+          <div class="col-12 col-md-4">
+            <!-- Cambiado a col-12 para ser responsivo en pantallas pequeñas -->
+            <img
+              src="img/uamex.jpg"
+              alt="Universidad Autonoma del Estado de México"
+              style="width: 120px; margin: 0 10px;"
+              class="img-fluid"
+            />
+          </div>
+          <div
+            class="col-12 col-md-4 d-flex flex-column justify-content-center"
+            style="height: 100%; padding-top: 15px;"
+          >
+            <!-- Cambiado a col-12 para ser responsivo en pantallas pequeñas -->
+            <h2>Facultad de Ingeniería</h2>
+            <h4>Fichas de Reinscripción</h4>
+          </div>
+          <div class="col-12 col-md-4">
+            <!-- Cambiado a col-12 para ser responsivo en pantallas pequeñas -->
+            <img
+              src="img/ing.png"
+              alt="Facltad de Ingeniería"
+              class="img-fluid"
+              style="max-width: 70%;"
+            />
+          </div>
+        </div>
+      </header>
+      <br />
+
+      <div class="container2">
+        <p>Ingresa tu número de cuenta:</p>
+        <input type="text" id="cuenta" placeholder="Número de cuenta" />
+        <button onclick="consultarInscripcionJson()">Consultar</button>
+        <!-- <p id="resultado"></p> -->
+      </div>
+      <br />
+      <div class="container3" id="tablaDatos">
+        <table class="table table-hover">
+          <thead>
+            <tr>
+              <th scope="col">Plan de Estudios:</th>
+              <th scope="col" id="plan"></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">Nombre:</th>
+              <td id="nombre"></td>
+            </tr>
+            
+              <th scope="row">Fecha:</th>
+              <td id="fecha"></td>
+            </tr>
+            <tr>
+              <th scope="row">Hora:</th>
+              <td id="hora"></td>
+            </tr>
+          </tbody>
+        </table>
+        <br /><br />
+      </div>
+      <div class="row">
+        <div class="col-12 ms-auto">
+          <a href="login.html" class="admin-link">Administrador</a>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+    <script src="js/datosF.json"></script>
+    <script src="js/funciones.js"></script>
+    
+  </body>
+</html>
