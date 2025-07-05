@@ -65,6 +65,7 @@ async function consultarInscripcion() {
 
 async function consultarInscripcionJson() {
     const cuenta = document.getElementById("cuenta").value;
+    //console.log(cuenta)
 
     document.getElementById("plan").innerHTML = "";
     document.getElementById("nombre").innerHTML = "";
@@ -76,6 +77,7 @@ async function consultarInscripcionJson() {
         const response = await fetch("js/datosF.json");
         const datos = await response.json();
 
+        //console.log(datos)
         // Buscar el alumno por número de cuenta
         const alumno = datos.find((alumno) => alumno.cuenta === cuenta);
         //console.log(alumno)
@@ -137,6 +139,10 @@ function obtenerNombrePlan(cadena) {
     } else {
         if (cadena.includes("ICI")) {
             return "Ingeniería Civil";
+        }else{
+            if (cadena.includes("IIA")) {
+                return "Ingeniería en Inteligencia Artificial";
+            }
         }
     }
 }
