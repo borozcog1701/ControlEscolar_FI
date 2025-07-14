@@ -1,1906 +1,3292 @@
 [
   {
-    "cuenta": "1920897",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "08:20",
-    "nombre": "ESQUIVEL GONZALEZ CID EMMANUEL"
-  },
-  {
-    "cuenta": "1612317",
+    "cuenta": "2221275",
     "plan": "IME-F19",
-    "fecha": "11/07/2025",
+    "fecha": "15/07/2025",
     "hora": "08:20",
-    "nombre": "GARCIA GUEVARA ABRAHAM DAVID"
+    "nombre": "ARIAS VENTEÑO JOEL"
   },
   {
-    "cuenta": "2021092",
+    "cuenta": "1322183",
+    "plan": "IME-F3",
+    "fecha": "15/07/2025",
+    "hora": "08:20",
+    "nombre": "CARRILLO VAZQUEZ MAURICIO ALBERTO"
+  },
+  {
+    "cuenta": "1413814",
+    "plan": "IME-F19",
+    "fecha": "15/07/2025",
+    "hora": "08:20",
+    "nombre": "CASTAÑEDA MONROY JOSE ALBERTO"
+  },
+  {
+    "cuenta": "2014609",
     "plan": "IEL-F19",
-    "fecha": "11/07/2025",
+    "fecha": "15/07/2025",
     "hora": "08:20",
-    "nombre": "NEGRETE OSORIO FERNANDO"
+    "nombre": "DIAZ GARCIA CARLOS SANTIAGO"
   },
   {
-    "cuenta": "1612215",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "08:20",
-    "nombre": "DEL RIO REYNOSO HAYYIM"
-  },
-  {
-    "cuenta": "1710754",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "08:20",
-    "nombre": "RICO ELIZARRARAS MARIA FERNANDA"
-  },
-  {
-    "cuenta": "2421012",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "08:20",
-    "nombre": "ARELLANO CASTRO IRVING PEDRO JAHAZIEL"
-  },
-  {
-    "cuenta": "1710296",
+    "cuenta": "2421281",
     "plan": "IME-F19",
-    "fecha": "11/07/2025",
+    "fecha": "15/07/2025",
     "hora": "08:20",
-    "nombre": "FUENTES ZALDIVAR ALDO"
+    "nombre": "EUGENIO GUZMAN NAIM"
   },
   {
-    "cuenta": "2121354",
-    "plan": "IME-F19",
-    "fecha": "11/07/2025",
-    "hora": "08:20",
-    "nombre": "LOPEZ GALINDO PABLO IVAN"
-  },
-  {
-    "cuenta": "1711017",
+    "cuenta": "1917689",
     "plan": "ICI-F19",
-    "fecha": "11/07/2025",
+    "fecha": "15/07/2025",
     "hora": "08:20",
-    "nombre": "AGUILAR CASTILLA SAULO MIGUEL"
+    "nombre": "FLORES RODRIGUEZ SANTIAGO"
   },
   {
-    "cuenta": "1941765",
+    "cuenta": "1710291",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "08:20",
+    "nombre": "FRANCO AGUILAR CLAUDIA"
+  },
+  {
+    "cuenta": "1920902",
+    "plan": "ICO-F19",
+    "fecha": "15/07/2025",
+    "hora": "08:20",
+    "nombre": "FRANCO JUAN OSCAR EDUARDO"
+  },
+  {
+    "cuenta": "2520045",
     "plan": "IME-F19",
-    "fecha": "11/07/2025",
+    "fecha": "15/07/2025",
     "hora": "08:20",
-    "nombre": "GONZALEZ RAMOS JUAN DAVID"
+    "nombre": "GONZALEZ GARCIA JOSE MARIA"
   },
   {
-    "cuenta": "1412350",
+    "cuenta": "1716502",
     "plan": "IME-F19",
-    "fecha": "11/07/2025",
+    "fecha": "15/07/2025",
     "hora": "08:20",
-    "nombre": "GONZALEZ ESQUIVEL IGNACIO"
+    "nombre": "HERNANDEZ MONROY MIGUEL"
   },
   {
-    "cuenta": "1913126",
+    "cuenta": "2012964",
     "plan": "IME-F19",
-    "fecha": "11/07/2025",
+    "fecha": "15/07/2025",
     "hora": "08:20",
-    "nombre": "RUIZ TELLEZ VICTOR"
+    "nombre": "JAIMES PEREZ JOEL ALFONSO"
   },
   {
-    "cuenta": "2120080",
+    "cuenta": "2421226",
+    "plan": "IEL-F19",
+    "fecha": "15/07/2025",
+    "hora": "08:20",
+    "nombre": "PEREZ LARA AMALINALY"
+  },
+  {
+    "cuenta": "2121185",
+    "plan": "ICO-F19",
+    "fecha": "15/07/2025",
+    "hora": "08:20",
+    "nombre": "PEREZ PERDOMO GUILLERMO ANDRES"
+  },
+  {
+    "cuenta": "1545638",
+    "plan": "IME-F3",
+    "fecha": "15/07/2025",
+    "hora": "08:20",
+    "nombre": "RUBI ELIAS JUAN ALBERTO"
+  },
+  {
+    "cuenta": "2121249",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "08:20",
+    "nombre": "SALAZAR RODRIGUEZ AXEL ALI"
+  },
+  {
+    "cuenta": "2321188",
+    "plan": "IEL-F19",
+    "fecha": "15/07/2025",
+    "hora": "09:20",
+    "nombre": "SANCHEZ TREJO EMILIO"
+  },
+  {
+    "cuenta": "1720102",
     "plan": "ISES-F3",
-    "fecha": "11/07/2025",
-    "hora": "08:20",
-    "nombre": "MIRANDA REYES ANDREA"
+    "fecha": "15/07/2025",
+    "hora": "09:20",
+    "nombre": "TAPIA RANGEL FRIDA GUADALUPE"
   },
   {
-    "cuenta": "2021161",
+    "cuenta": "1972529",
     "plan": "IME-F19",
-    "fecha": "11/07/2025",
+    "fecha": "15/07/2025",
     "hora": "09:20",
-    "nombre": "MARTINEZ NAVARRETE JUAN PABLO"
+    "nombre": "EZETA ALARCON SARA MERCEDES"
   },
   {
-    "cuenta": "2421013",
+    "cuenta": "1242928",
     "plan": "ICO-F19",
-    "fecha": "11/07/2025",
+    "fecha": "15/07/2025",
     "hora": "09:20",
-    "nombre": "ARIAS ROBLES EDUARDO ALEJANDRO"
+    "nombre": "NUÑEZ MARTINEZ ANTONIO IRVIN"
   },
   {
-    "cuenta": "1614591",
-    "plan": "ICI-F3",
-    "fecha": "11/07/2025",
-    "hora": "09:20",
-    "nombre": "CARBAJAL TORRES ALEJANDRO JOSUE"
-  },
-  {
-    "cuenta": "1642922",
+    "cuenta": "1920912",
     "plan": "ICO-F19",
-    "fecha": "11/07/2025",
+    "fecha": "15/07/2025",
     "hora": "09:20",
-    "nombre": "GONZALEZ MUÑOZ JULIO IVAN"
+    "nombre": "LUCHO MONTERO LUIS DAVID"
   },
   {
-    "cuenta": "2472312",
-    "plan": "IEL-F19",
-    "fecha": "11/07/2025",
-    "hora": "09:20",
-    "nombre": "CARRILLO GONZALEZ JOSE LUIS"
-  },
-  {
-    "cuenta": "2121348",
-    "plan": "IME-F19",
-    "fecha": "11/07/2025",
-    "hora": "09:20",
-    "nombre": "GUZMAN SANTANA MIGUEL ANGEL"
-  },
-  {
-    "cuenta": "1643040",
-    "plan": "IEL-F19",
-    "fecha": "11/07/2025",
-    "hora": "09:20",
-    "nombre": "PLATA BARRUETA EDGAR DANIEL"
-  },
-  {
-    "cuenta": "1912570",
+    "cuenta": "2012919",
     "plan": "ICI-F19",
-    "fecha": "11/07/2025",
+    "fecha": "15/07/2025",
     "hora": "09:20",
-    "nombre": "GARCIA SOLIS STEFANIA ANDREA"
+    "nombre": "HERNANDEZ FABILA RICARDO JESUS"
   },
   {
-    "cuenta": "2321136",
-    "plan": "IEL-F19",
-    "fecha": "11/07/2025",
+    "cuenta": "2421050",
+    "plan": "ICO-F19",
+    "fecha": "15/07/2025",
     "hora": "09:20",
-    "nombre": "CANO HERNANDEZ SONIA JOCELINE"
+    "nombre": "IGLESIAS NOYOLA EMILIANO"
   },
   {
-    "cuenta": "2013698",
+    "cuenta": "2321251",
+    "plan": "IME-F19",
+    "fecha": "15/07/2025",
+    "hora": "09:20",
+    "nombre": "BARRAGAN ARRIAGA PEDRO"
+  },
+  {
+    "cuenta": "1710724",
+    "plan": "ICO-F19",
+    "fecha": "15/07/2025",
+    "hora": "09:20",
+    "nombre": "RAMIREZ ROBLES CARLOS SANTIAGO"
+  },
+  {
+    "cuenta": "1613964",
+    "plan": "ICO-F19",
+    "fecha": "15/07/2025",
+    "hora": "09:20",
+    "nombre": "GALLARDO VELAZQUEZ ANGEL YAEL"
+  },
+  {
+    "cuenta": "2221101",
+    "plan": "ICO-F19",
+    "fecha": "15/07/2025",
+    "hora": "09:20",
+    "nombre": "MARTINEZ SANCHEZ ALFONSO"
+  },
+  {
+    "cuenta": "2421269",
+    "plan": "ISES-F24",
+    "fecha": "15/07/2025",
+    "hora": "09:20",
+    "nombre": "VALENZUELA MARTINEZ CARLOS FRANCISCO"
+  },
+  {
+    "cuenta": "2220030",
     "plan": "ISES-F3",
-    "fecha": "11/07/2025",
+    "fecha": "15/07/2025",
     "hora": "09:20",
-    "nombre": "AYALA GARCIARROJAS FILEAS ESAU"
+    "nombre": "BASTIDA BASTIDA JESUS GETZEMANI"
   },
   {
-    "cuenta": "1710050",
-    "plan": "IME-F19",
-    "fecha": "11/07/2025",
-    "hora": "09:20",
-    "nombre": "ALONSO ARRIAGA JAIME"
-  },
-  {
-    "cuenta": "1612453",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "09:20",
-    "nombre": "HERNANDEZ NAVA BRIAN"
-  },
-  {
-    "cuenta": "1710397",
-    "plan": "ISES-F3",
-    "fecha": "11/07/2025",
-    "hora": "09:20",
-    "nombre": "GUADARRAMA GARDUÑO MARIANO"
-  },
-  {
-    "cuenta": "1713177",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "10:20",
-    "nombre": "FERNANDEZ MENDOZA JESUS ADRIAN"
-  },
-  {
-    "cuenta": "1811943",
-    "plan": "IME-F19",
-    "fecha": "11/07/2025",
-    "hora": "10:20",
-    "nombre": "SANTIAGO FLORES EMMANUEL"
-  },
-  {
-    "cuenta": "1811578",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "10:20",
-    "nombre": "LOPEZ CASTAÑEDA XIMENA"
-  },
-  {
-    "cuenta": "1742084",
-    "plan": "IME-F19",
-    "fecha": "11/07/2025",
-    "hora": "10:20",
-    "nombre": "BRINGAS VELAZQUEZ IRIS YARETH"
-  },
-  {
-    "cuenta": "1674680",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "10:20",
-    "nombre": "FLORES ALVARADO JOSIAS"
-  },
-  {
-    "cuenta": "2121355",
-    "plan": "IME-F19",
-    "fecha": "11/07/2025",
-    "hora": "10:20",
-    "nombre": "LOPEZ MARTINEZ NADIA IVONNE"
-  },
-  {
-    "cuenta": "2221175",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "10:20",
-    "nombre": "MARTINEZ ELIZALDE MARCOS EMMANUEL"
-  },
-  {
-    "cuenta": "2421200",
-    "plan": "IEL-F19",
-    "fecha": "11/07/2025",
-    "hora": "10:20",
-    "nombre": "DE LA ROSA CELESTINO JOSUE YAEL"
-  },
-  {
-    "cuenta": "2421051",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "10:20",
-    "nombre": "ISLAS CRUZ JOSE"
-  },
-  {
-    "cuenta": "1714090",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "10:20",
-    "nombre": "LEON CRUZ AMANDA"
-  },
-  {
-    "cuenta": "2221354",
-    "plan": "IME-F19",
-    "fecha": "11/07/2025",
-    "hora": "10:20",
-    "nombre": "TINOCO NOLASCO JUAN DE DIOS"
-  },
-  {
-    "cuenta": "1710436",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "10:20",
-    "nombre": "HERNANDEZ PICHARDO MILDRED PAULINA"
-  },
-  {
-    "cuenta": "2113614",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "10:20",
-    "nombre": "TRINIDAD GARCIA DULCE MARIA"
-  },
-  {
-    "cuenta": "2118048",
+    "cuenta": "2322754",
     "plan": "IIA-F24",
-    "fecha": "11/07/2025",
-    "hora": "11:20",
-    "nombre": "CRUZ LOPEZ EMILIA"
+    "fecha": "15/07/2025",
+    "hora": "09:20",
+    "nombre": "BALDOVINOS HERNANDEZ ERIK ROLANDO"
   },
   {
-    "cuenta": "2140634",
+    "cuenta": "2221094",
     "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "11:20",
-    "nombre": "BENITEZ LOPEZ ALEXANDER"
+    "fecha": "15/07/2025",
+    "hora": "09:20",
+    "nombre": "LUGO ALCAZAR RODRIGO"
   },
   {
-    "cuenta": "1815278",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "11:20",
-    "nombre": "SUAREZ GONZALEZ JESUS NARESH"
-  },
-  {
-    "cuenta": "1912542",
+    "cuenta": "1611911",
     "plan": "IME-F19",
-    "fecha": "11/07/2025",
-    "hora": "11:20",
-    "nombre": "GARCIA GARCIA XIMENA"
+    "fecha": "15/07/2025",
+    "hora": "10:20",
+    "nombre": "SOSA DESALES KEVIN AXEL"
   },
   {
-    "cuenta": "2520008",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "11:20",
-    "nombre": "VALENCIA GUERRERO HAZEL PAMELA"
-  },
-  {
-    "cuenta": "1810905",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "11:20",
-    "nombre": "SANCHEZ GIL JOSE GABRIEL"
-  },
-  {
-    "cuenta": "2010854",
+    "cuenta": "1640647",
     "plan": "IME-F19",
-    "fecha": "11/07/2025",
-    "hora": "11:20",
-    "nombre": "ORTIZ REYES BRAIAN ARTURO"
+    "fecha": "15/07/2025",
+    "hora": "10:20",
+    "nombre": "SANCHEZ PEDRAZA ALDO GAEL"
   },
   {
-    "cuenta": "2421274",
-    "plan": "IME-F19",
-    "fecha": "11/07/2025",
-    "hora": "11:20",
-    "nombre": "ALVAREZ DE JESUS VICTOR ABRAHAM"
-  },
-  {
-    "cuenta": "1814466",
-    "plan": "ISES-F3",
-    "fecha": "11/07/2025",
-    "hora": "11:20",
-    "nombre": "RODRIGUEZ GUTIERREZ PABLO DAVID"
-  },
-  {
-    "cuenta": "1612224",
-    "plan": "IME-F19",
-    "fecha": "11/07/2025",
-    "hora": "11:20",
-    "nombre": "DIAZ MARTINEZ MARTHA AILIN"
-  },
-  {
-    "cuenta": "2520004",
+    "cuenta": "2421078",
     "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "11:20",
-    "nombre": "MORENO ROJAS MISAEL"
+    "fecha": "15/07/2025",
+    "hora": "10:20",
+    "nombre": "ROA NUÑEZ EMILIO"
   },
   {
-    "cuenta": "2020994",
+    "cuenta": "1540018",
+    "plan": "IEL-F3",
+    "fecha": "15/07/2025",
+    "hora": "10:20",
+    "nombre": "COLIN GARCIA JAFET"
+  },
+  {
+    "cuenta": "2021014",
     "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "11:20",
-    "nombre": "NAJERA HIDALGO JOSE LUIS"
+    "fecha": "15/07/2025",
+    "hora": "10:20",
+    "nombre": "SALAZAR GODINEZ RAUL"
   },
   {
-    "cuenta": "2121243",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "11:20",
-    "nombre": "RAMOS CASTILLO MIGUEL"
-  },
-  {
-    "cuenta": "1710023",
-    "plan": "ISES-F3",
-    "fecha": "11/07/2025",
-    "hora": "12:20",
-    "nombre": "ACOSTA ARIAS MIREL ASTRID"
-  },
-  {
-    "cuenta": "1710396",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "12:20",
-    "nombre": "GRANDA GIL JESUS"
-  },
-  {
-    "cuenta": "2120049",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "12:20",
-    "nombre": "MORENO JACINTO EFRAIN"
-  },
-  {
-    "cuenta": "2143032",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "12:20",
-    "nombre": "FRAGOSO BOJORGES ALEJANDRO EMILIANO"
-  },
-  {
-    "cuenta": "2321059",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "12:20",
-    "nombre": "FABILA DIAZ OLIVER JESUS"
-  },
-  {
-    "cuenta": "2172604",
-    "plan": "IME-F19",
-    "fecha": "11/07/2025",
-    "hora": "12:20",
-    "nombre": "BEDOLLA FABILA JOSE DANIEL"
-  },
-  {
-    "cuenta": "2321089",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "12:20",
-    "nombre": "MONTES REYES MIGUEL"
-  },
-  {
-    "cuenta": "1711350",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "12:20",
-    "nombre": "GONZALEZ GONZALEZ HUGO"
-  },
-  {
-    "cuenta": "1811216",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "12:20",
-    "nombre": "CABALLERO PEDRAZA JUAN JESUS"
-  },
-  {
-    "cuenta": "2120054",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "12:20",
-    "nombre": "SANCHEZ MONTES ARMANDO"
-  },
-  {
-    "cuenta": "1914245",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "12:20",
-    "nombre": "GONZALEZ RODRIGUEZ KEVIN ADRIAN"
-  },
-  {
-    "cuenta": "2321193",
+    "cuenta": "2520037",
     "plan": "IEL-F19",
-    "fecha": "11/07/2025",
-    "hora": "12:20",
-    "nombre": "VAZQUEZ GOMEZ ALEXIA ROXANA"
+    "fecha": "15/07/2025",
+    "hora": "10:20",
+    "nombre": "MARTINEZ FLORES DANIEL"
   },
   {
-    "cuenta": "2421060",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "12:20",
-    "nombre": "MARTINEZ CALVA SANTIAGO"
+    "cuenta": "2421209",
+    "plan": "IEL-F19",
+    "fecha": "15/07/2025",
+    "hora": "10:20",
+    "nombre": "GARCIA SERRANO EMILIANO"
   },
   {
-    "cuenta": "1913904",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "13:20",
-    "nombre": "ALVAREZ MACEDO EFREN"
-  },
-  {
-    "cuenta": "2120024",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "13:20",
-    "nombre": "BARRON GARDUÑO KATIA"
-  },
-  {
-    "cuenta": "1442711",
-    "plan": "IME-F19",
-    "fecha": "11/07/2025",
-    "hora": "13:20",
-    "nombre": "AGUILAR DIAZ MIGUEL ANGEL"
-  },
-  {
-    "cuenta": "1713608",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "13:20",
-    "nombre": "SOTERO VENTOLERO SARA JULIANA"
-  },
-  {
-    "cuenta": "1920900",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "13:20",
-    "nombre": "FLORES ESTRADA EDUARDO ADAN"
-  },
-  {
-    "cuenta": "2020987",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "13:20",
-    "nombre": "LOPEZ HERNANDEZ GUSTAVO"
-  },
-  {
-    "cuenta": "2120083",
+    "cuenta": "1910040",
     "plan": "ISES-F3",
-    "fecha": "11/07/2025",
-    "hora": "13:20",
-    "nombre": "RESENDIZ PALMA DULCE PAMELA"
+    "fecha": "15/07/2025",
+    "hora": "10:20",
+    "nombre": "ALCANTARA CHIMAL GEMA SCARLETT"
   },
   {
-    "cuenta": "2520005",
+    "cuenta": "1821086",
+    "plan": "ICO-F3",
+    "fecha": "15/07/2025",
+    "hora": "10:20",
+    "nombre": "DELGADO IÑIGUEZ JESUS ANTONIO"
+  },
+  {
+    "cuenta": "1515073",
+    "plan": "IME-F3",
+    "fecha": "15/07/2025",
+    "hora": "10:20",
+    "nombre": "PEREZ HERRERA EMMANUEL DAVID"
+  },
+  {
+    "cuenta": "2421042",
     "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "13:20",
-    "nombre": "RAMIREZ LEON ESTRELLA BERENICE"
+    "fecha": "15/07/2025",
+    "hora": "10:20",
+    "nombre": "GONZALEZ JIMENEZ JESUS GERARDO"
   },
   {
-    "cuenta": "2111064",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "13:20",
-    "nombre": "SIFUENTES PAREDES MAXIMILIANO"
-  },
-  {
-    "cuenta": "2112949",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "13:20",
-    "nombre": "GARCIA AGUIRRE IRMA JOSELINE"
-  },
-  {
-    "cuenta": "2140961",
+    "cuenta": "1610228",
     "plan": "IEL-F19",
-    "fecha": "11/07/2025",
-    "hora": "13:20",
-    "nombre": "GUTIERREZ ESQUIVEL IVAN"
+    "fecha": "15/07/2025",
+    "hora": "10:20",
+    "nombre": "DIAZ REZA JUAN MANUEL"
   },
   {
-    "cuenta": "2011586",
+    "cuenta": "1815511",
+    "plan": "ICO-F19",
+    "fecha": "15/07/2025",
+    "hora": "10:20",
+    "nombre": "DE LA ROSA RAMOS DYLAN ADAYR"
+  },
+  {
+    "cuenta": "1920949",
+    "plan": "ICO-F19",
+    "fecha": "15/07/2025",
+    "hora": "10:20",
+    "nombre": "ZARATE GARCES JUAN DE DIOS"
+  },
+  {
+    "cuenta": "2110071",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "10:20",
+    "nombre": "ARAUJO LADRILLERO DANIEL"
+  },
+  {
+    "cuenta": "1813958",
+    "plan": "ISES-F3",
+    "fecha": "15/07/2025",
+    "hora": "11:20",
+    "nombre": "DURAN PERDOMO ELIZABETH"
+  },
+  {
+    "cuenta": "2120005",
+    "plan": "ICO-F19",
+    "fecha": "15/07/2025",
+    "hora": "11:20",
+    "nombre": "DOMINGUEZ BLAS LITZY ARLETT"
+  },
+  {
+    "cuenta": "1843460",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "11:20",
+    "nombre": "SOLIS MIRANDA ALEXA LUDWIKA"
+  },
+  {
+    "cuenta": "2520015",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "11:20",
+    "nombre": "GARCIA LOPEZ JUAN DIEGO"
+  },
+  {
+    "cuenta": "2472311",
     "plan": "IEL-F19",
-    "fecha": "11/07/2025",
-    "hora": "13:20",
-    "nombre": "FLORES GARDUÑO EMILIO"
+    "fecha": "15/07/2025",
+    "hora": "11:20",
+    "nombre": "BEDOLLA MIRANDA ESTHER"
   },
   {
-    "cuenta": "2220042",
-    "plan": "IME-F19",
-    "fecha": "11/07/2025",
-    "hora": "13:20",
-    "nombre": "ZEPEDA GALVEZ ALFREDO"
-  },
-  {
-    "cuenta": "2221144",
+    "cuenta": "2012155",
     "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "14:20",
-    "nombre": "CAMACHO TAPIA GIUSEPPE ALESSANDRO"
+    "fecha": "15/07/2025",
+    "hora": "11:20",
+    "nombre": "RAMIREZ FLORES JESSICA IRAIS"
   },
   {
-    "cuenta": "1773568",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "14:20",
-    "nombre": "LOPEZ ROBLES ALEJANDRO"
-  },
-  {
-    "cuenta": "1710510",
+    "cuenta": "2221286",
     "plan": "IME-F19",
-    "fecha": "11/07/2025",
-    "hora": "14:20",
-    "nombre": "MACEDO MENDEZ AXEL MANUEL"
+    "fecha": "15/07/2025",
+    "hora": "11:20",
+    "nombre": "CHIRINO JAIMES OMAR"
   },
   {
-    "cuenta": "1713992",
+    "cuenta": "1910877",
+    "plan": "IME-F19",
+    "fecha": "15/07/2025",
+    "hora": "11:20",
+    "nombre": "RAMIREZ GUTIERREZ CARLOS"
+  },
+  {
+    "cuenta": "2421073",
     "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "14:20",
-    "nombre": "GONZALEZ GONZALEZ MAURICIO ISMAEL"
+    "fecha": "15/07/2025",
+    "hora": "11:20",
+    "nombre": "PEREZ TRANQUILINO JUAN PABLO"
   },
   {
-    "cuenta": "2120008",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "14:20",
-    "nombre": "HERNANDEZ JIMENEZ ANGEL YAEL"
-  },
-  {
-    "cuenta": "1914777",
+    "cuenta": "2115990",
     "plan": "IME-F19",
-    "fecha": "11/07/2025",
-    "hora": "14:20",
-    "nombre": "VAZQUEZ PEREZ JOSE PABLO"
+    "fecha": "15/07/2025",
+    "hora": "11:20",
+    "nombre": "VELASQUEZ GONZALEZ JOSE LUIS"
   },
   {
-    "cuenta": "2110033",
-    "plan": "IME-F19",
-    "fecha": "11/07/2025",
-    "hora": "14:20",
-    "nombre": "ALCANTARA ESCOBAR ROBERTO CARLOS"
-  },
-  {
-    "cuenta": "2115211",
+    "cuenta": "2520053",
     "plan": "IIA-F24",
-    "fecha": "11/07/2025",
-    "hora": "14:20",
-    "nombre": "SANCHEZ MONROY CESAR AUGUSTO"
+    "fecha": "15/07/2025",
+    "hora": "11:20",
+    "nombre": "CEJUDO SILVA ANYELO FABRICIO"
   },
   {
-    "cuenta": "2120032",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "14:20",
-    "nombre": "FABIAN TORRES JOSE ISAAC"
+    "cuenta": "2125137",
+    "plan": "IME-F19",
+    "fecha": "15/07/2025",
+    "hora": "11:20",
+    "nombre": "PATIÑO SAAVEDRA JOSE ALBERTO"
   },
   {
-    "cuenta": "2520001",
+    "cuenta": "2520038",
+    "plan": "IEL-F19",
+    "fecha": "15/07/2025",
+    "hora": "11:20",
+    "nombre": "MUNDO VELAZQUEZ KEVIN WILLIAM"
+  },
+  {
+    "cuenta": "2042299",
     "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "14:20",
-    "nombre": "FLORES CRISOSTOMO SAUL"
+    "fecha": "15/07/2025",
+    "hora": "11:20",
+    "nombre": "HERNANDEZ LUIS JUAN CARLOS"
   },
   {
-    "cuenta": "2120075",
+    "cuenta": "2010120",
     "plan": "ISES-F3",
-    "fecha": "11/07/2025",
-    "hora": "14:20",
-    "nombre": "GALEANA MANDUJANO CARLOS DAVID"
+    "fecha": "15/07/2025",
+    "hora": "11:20",
+    "nombre": "BERNAL LAMAS MARCO ALEJANDRO"
   },
   {
-    "cuenta": "2021150",
+    "cuenta": "2012921",
+    "plan": "IEL-F19",
+    "fecha": "15/07/2025",
+    "hora": "12:20",
+    "nombre": "HERNANDEZ GARCIA ANGEL SEBASTIAN"
+  },
+  {
+    "cuenta": "2221049",
     "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "14:20",
-    "nombre": "HERNANDEZ MARTINEZ EDUARDO AXEL"
+    "fecha": "15/07/2025",
+    "hora": "12:20",
+    "nombre": "BASTIDA ALVAREZ GERARDO"
   },
   {
-    "cuenta": "1711783",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "14:20",
-    "nombre": "ROMERO PERALTA ARTURO"
+    "cuenta": "2020086",
+    "plan": "IME-F19",
+    "fecha": "15/07/2025",
+    "hora": "12:20",
+    "nombre": "CLEMENTE CATZIN NOH-EK AXEL"
   },
   {
-    "cuenta": "2520007",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "15:20",
-    "nombre": "SORIANO BOBADILLA MIGUEL ANGEL"
-  },
-  {
-    "cuenta": "2020072",
+    "cuenta": "2321198",
     "plan": "ISES-F3",
-    "fecha": "11/07/2025",
-    "hora": "15:20",
-    "nombre": "HERNANDEZ JIMENEZ JOSE ROBERTO"
+    "fecha": "15/07/2025",
+    "hora": "12:20",
+    "nombre": "ALVAREZ AMADO ABRAHAM"
   },
   {
-    "cuenta": "2021178",
+    "cuenta": "2421301",
     "plan": "IME-F19",
-    "fecha": "11/07/2025",
-    "hora": "15:20",
-    "nombre": "SANCHEZ HERNANDEZ SAID ISRAEL"
+    "fecha": "15/07/2025",
+    "hora": "12:20",
+    "nombre": "MORALES SANCHEZ JESUS"
   },
   {
-    "cuenta": "2021035",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "15:20",
-    "nombre": "DIAZ DIAZ EDUARDO JARED"
-  },
-  {
-    "cuenta": "2021034",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "15:20",
-    "nombre": "DEL MAZO PLATA RAUL"
-  },
-  {
-    "cuenta": "1644150",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "15:20",
-    "nombre": "CALDERON SALAZAR VALERIA"
-  },
-  {
-    "cuenta": "2014188",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "15:20",
-    "nombre": "PERALTA  ALEX"
-  },
-  {
-    "cuenta": "2221273",
-    "plan": "IME-F19",
-    "fecha": "11/07/2025",
-    "hora": "15:20",
-    "nombre": "ALEJANDREZ GONZALEZ RICARDO DANIEL"
-  },
-  {
-    "cuenta": "2121139",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "15:20",
-    "nombre": "AVELINO BECERRIL BRAYAN"
-  },
-  {
-    "cuenta": "2020976",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "15:20",
-    "nombre": "GONZALEZ FLORES JOSUE"
-  },
-  {
-    "cuenta": "1740226",
-    "plan": "IEL-F19",
-    "fecha": "11/07/2025",
-    "hora": "15:20",
-    "nombre": "ORTIZ MACEDO HUMBERTO"
-  },
-  {
-    "cuenta": "2321025",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "15:20",
-    "nombre": "PAULINO ESQUIVEL JOSE JUAN"
-  },
-  {
-    "cuenta": "2120070",
-    "plan": "IEL-F19",
-    "fecha": "11/07/2025",
-    "hora": "15:20",
-    "nombre": "VALOIS JIMENEZ PIERRE ELLIOTT"
-  },
-  {
-    "cuenta": "2115352",
-    "plan": "IEL-F19",
-    "fecha": "11/07/2025",
-    "hora": "16:20",
-    "nombre": "ANZALDO RAMIREZ JONATHAN"
-  },
-  {
-    "cuenta": "2321104",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "16:20",
-    "nombre": "ROJAS FLORES RICARDO"
-  },
-  {
-    "cuenta": "1711016",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "16:20",
-    "nombre": "AGUILAR CASTILLA JONATHAN MIGUEL"
-  },
-  {
-    "cuenta": "1810157",
-    "plan": "IME-F19",
-    "fecha": "11/07/2025",
-    "hora": "16:20",
-    "nombre": "CASTORELA LEYVA LUIS FERNANDO"
-  },
-  {
-    "cuenta": "2220018",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "16:20",
-    "nombre": "HINOJOZA CHAVEZ CECILIA JANET"
-  },
-  {
-    "cuenta": "1811537",
-    "plan": "ISES-F3",
-    "fecha": "11/07/2025",
-    "hora": "16:20",
-    "nombre": "JIMENEZ ALVAREZ JUDITH"
-  },
-  {
-    "cuenta": "1822115",
-    "plan": "IEL-F19",
-    "fecha": "11/07/2025",
-    "hora": "16:20",
-    "nombre": "SANCHEZ TREJO ANGEL FERNANDO"
-  },
-  {
-    "cuenta": "2120064",
-    "plan": "IEL-F19",
-    "fecha": "11/07/2025",
-    "hora": "16:20",
-    "nombre": "OCAMPO SOTELO ALEJANDRO"
-  },
-  {
-    "cuenta": "1912310",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "16:20",
-    "nombre": "BENAVIDES MOLINA CUAUHTEMOC"
-  },
-  {
-    "cuenta": "1811799",
-    "plan": "ISES-F3",
-    "fecha": "11/07/2025",
-    "hora": "16:20",
-    "nombre": "RAMIREZ ALVARADO JORGE URIEL"
-  },
-  {
-    "cuenta": "2321150",
-    "plan": "IEL-F19",
-    "fecha": "11/07/2025",
-    "hora": "16:20",
-    "nombre": "GARCIA RIVERA DEVIN"
-  },
-  {
-    "cuenta": "2221113",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "16:20",
-    "nombre": "RIVEROLL VARGAS SAMUEL"
-  },
-  {
-    "cuenta": "2114782",
-    "plan": "ISES-F24",
-    "fecha": "11/07/2025",
-    "hora": "16:20",
-    "nombre": "GONZALEZ REYES JESUS URIEL"
-  },
-  {
-    "cuenta": "1714007",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "17:20",
-    "nombre": "GUADARRAMA GARCIA CARLA DANIELA"
-  },
-  {
-    "cuenta": "1713168",
-    "plan": "IME-F19",
-    "fecha": "11/07/2025",
-    "hora": "17:20",
-    "nombre": "ESTEVEZ ROJAS JOSE EMILIO"
-  },
-  {
-    "cuenta": "1813934",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "17:20",
-    "nombre": "DIAZ BERNAL AIMEE MARIBEL"
-  },
-  {
-    "cuenta": "1613875",
-    "plan": "IME-F19",
-    "fecha": "11/07/2025",
-    "hora": "17:20",
-    "nombre": "CORONA ROMERO JESUS RODOLFO"
-  },
-  {
-    "cuenta": "2013985",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "17:20",
-    "nombre": "HERRERA SANCHEZ YATANA NEFERTITI"
-  },
-  {
-    "cuenta": "1920033",
-    "plan": "ICI-F3",
-    "fecha": "11/07/2025",
-    "hora": "17:20",
-    "nombre": "SANCHEZ NAVARRETE JORGE ALFREDO"
-  },
-  {
-    "cuenta": "1920025",
-    "plan": "ICI-F3",
-    "fecha": "11/07/2025",
-    "hora": "17:20",
-    "nombre": "GUADARRAMA GARDUÑO VICTOR"
-  },
-  {
-    "cuenta": "1913548",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "17:20",
-    "nombre": "HINOJOSA VELAZQUEZ OSCAR"
-  },
-  {
-    "cuenta": "1810919",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "17:20",
-    "nombre": "SANCHEZ MIRANDA PEDRO ARMANDO"
-  },
-  {
-    "cuenta": "1613787",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "17:20",
-    "nombre": "BECERRIL AGUILAR ANTONIO"
-  },
-  {
-    "cuenta": "2221203",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "17:20",
-    "nombre": "VILCHIS RANGEL DIEGO ENRIQUE"
-  },
-  {
-    "cuenta": "2021177",
-    "plan": "IME-F19",
-    "fecha": "11/07/2025",
-    "hora": "17:20",
-    "nombre": "SANCHEZ ESCALONA JOSE ANGEL"
-  },
-  {
-    "cuenta": "2320999",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "17:20",
-    "nombre": "JARDON FABIAN YOCELYN"
-  },
-  {
-    "cuenta": "2017338",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "18:20",
-    "nombre": "GUTIERREZ ZAPOTE SAUL GABRIEL"
-  },
-  {
-    "cuenta": "2110208",
-    "plan": "ISES-F24",
-    "fecha": "11/07/2025",
-    "hora": "18:20",
-    "nombre": "CHAVEZ BALDERAS SARA LIZETH"
-  },
-  {
-    "cuenta": "1813163",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "18:20",
-    "nombre": "CAMACHO CHICO JESUS RAUL"
-  },
-  {
-    "cuenta": "2120097",
-    "plan": "IME-F19",
-    "fecha": "11/07/2025",
-    "hora": "18:20",
-    "nombre": "GUTIERREZ GONZALEZ OSCAR EMILIO"
-  },
-  {
-    "cuenta": "2173322",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "18:20",
-    "nombre": "DEL RIO ROMERO MANUEL"
-  },
-  {
-    "cuenta": "2373915",
-    "plan": "IEL-F19",
-    "fecha": "11/07/2025",
-    "hora": "18:20",
-    "nombre": "GUADARRAMA GARDUÑO ALAN RAUL"
-  },
-  {
-    "cuenta": "2120016",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "18:20",
-    "nombre": "MONDRAGON ALCANTAR MIGUEL BERNARDINO"
-  },
-  {
-    "cuenta": "2140671",
-    "plan": "ICI-F19",
-    "fecha": "11/07/2025",
-    "hora": "18:20",
-    "nombre": "HERNANDEZ JAIMES RUPERTO CARLOS"
-  },
-  {
-    "cuenta": "1921007",
-    "plan": "ICI-F3",
-    "fecha": "11/07/2025",
-    "hora": "18:20",
-    "nombre": "ROMERO JIMENEZ ALAN"
-  },
-  {
-    "cuenta": "2221312",
-    "plan": "IME-F19",
-    "fecha": "11/07/2025",
-    "hora": "18:20",
-    "nombre": "HUERTA FUENTES MAURICIO"
-  },
-  {
-    "cuenta": "2221096",
-    "plan": "ICO-F19",
-    "fecha": "11/07/2025",
-    "hora": "18:20",
-    "nombre": "MALDONADO ESQUIVEL GUSTAVO"
-  },
-  {
-    "cuenta": "2011981",
-    "plan": "IEL-F19",
-    "fecha": "11/07/2025",
-    "hora": "18:20",
-    "nombre": "MORALES BERNABE DIEGO"
-  },
-  {
-    "cuenta": "2020102",
-    "plan": "IME-F19",
-    "fecha": "11/07/2025",
-    "hora": "18:20",
-    "nombre": "SOTERO TORRES BRAYAN"
-  },
-  {
-    "cuenta": "2141216",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "08:20",
-    "nombre": "MOLINA FONSECA JAQUELINE"
-  },
-  {
-    "cuenta": "2221317",
-    "plan": "IME-F19",
-    "fecha": "14/07/2025",
-    "hora": "08:20",
-    "nombre": "LARA GARCIA HUGO ANGEL"
-  },
-  {
-    "cuenta": "2520006",
-    "plan": "ICO-F19",
-    "fecha": "14/07/2025",
-    "hora": "08:20",
-    "nombre": "ROQUE GIL EMMANUEL"
-  },
-  {
-    "cuenta": "1921008",
-    "plan": "ICI-F3",
-    "fecha": "14/07/2025",
-    "hora": "08:20",
-    "nombre": "SALINAS BERNARDINO OSWALDO"
-  },
-  {
-    "cuenta": "1716962",
-    "plan": "IEL-F19",
-    "fecha": "14/07/2025",
-    "hora": "08:20",
-    "nombre": "CANO SERRANO OSCAR YAEL"
-  },
-  {
-    "cuenta": "2011936",
-    "plan": "ISES-F3",
-    "fecha": "14/07/2025",
-    "hora": "08:20",
-    "nombre": "MEJIA ZEPEDA ROBERTO"
-  },
-  {
-    "cuenta": "2421218",
-    "plan": "IEL-F19",
-    "fecha": "14/07/2025",
-    "hora": "08:20",
-    "nombre": "HUITRON FLORES ANGEL GABRIEL"
-  },
-  {
-    "cuenta": "1740180",
-    "plan": "ICO-F19",
-    "fecha": "14/07/2025",
-    "hora": "08:20",
-    "nombre": "GOMEZ VELAZQUEZ MARCOS DANIEL"
-  },
-  {
-    "cuenta": "2021169",
-    "plan": "IME-F19",
-    "fecha": "14/07/2025",
-    "hora": "08:20",
-    "nombre": "OCHOA FUENTES ALAN JARED"
-  },
-  {
-    "cuenta": "2115781",
-    "plan": "ISES-F24",
-    "fecha": "14/07/2025",
-    "hora": "08:20",
-    "nombre": "NAPOLES GUTIERREZ BRANDON"
-  },
-  {
-    "cuenta": "2114960",
-    "plan": "ISES-F24",
-    "fecha": "14/07/2025",
-    "hora": "08:20",
-    "nombre": "MENDOZA GOMEZ MARIA DEL CARMEN"
-  },
-  {
-    "cuenta": "2011048",
-    "plan": "ISES-F3",
-    "fecha": "14/07/2025",
-    "hora": "08:20",
-    "nombre": "SANCHEZ ESCOBAR GERARDO"
-  },
-  {
-    "cuenta": "1810707",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "08:20",
-    "nombre": "ORTEGA TORALVA MARIO ANTONIO"
-  },
-  {
-    "cuenta": "2520018",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "09:20",
-    "nombre": "GIL HERNANDEZ ISRAEL AARON"
-  },
-  {
-    "cuenta": "2421175",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "09:20",
-    "nombre": "ROSAS REYES JOSE GUADALUPE"
-  },
-  {
-    "cuenta": "2011268",
-    "plan": "ICO-F19",
-    "fecha": "14/07/2025",
-    "hora": "09:20",
-    "nombre": "SANTANA ZAPATA KEREN HAPUC"
-  },
-  {
-    "cuenta": "1614589",
-    "plan": "ICI-F3",
-    "fecha": "14/07/2025",
-    "hora": "09:20",
-    "nombre": "CAMACHO VELASQUEZ DANIEL"
-  },
-  {
-    "cuenta": "2273550",
-    "plan": "ISES-F3",
-    "fecha": "14/07/2025",
-    "hora": "09:20",
-    "nombre": "CLEMENTE RIVERA KERWIN WILLIAM"
-  },
-  {
-    "cuenta": "1514042",
-    "plan": "IEL-F19",
-    "fecha": "14/07/2025",
-    "hora": "09:20",
-    "nombre": "VELAZQUEZ URBINA BALTAZAR ANTONIO"
-  },
-  {
-    "cuenta": "2021031",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "09:20",
-    "nombre": "CERVANTES COSS AIMAR"
-  },
-  {
-    "cuenta": "2120053",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "09:20",
-    "nombre": "ROMERO COLIN ALAN"
-  },
-  {
-    "cuenta": "2018402",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "09:20",
-    "nombre": "GARDUÑO RODRIGUEZ ALEYDA MARIANA"
-  },
-  {
-    "cuenta": "2120028",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "09:20",
-    "nombre": "CRUZ ENCARNACION ANDRES"
-  },
-  {
-    "cuenta": "2221269",
-    "plan": "ISES-F3",
-    "fecha": "14/07/2025",
-    "hora": "09:20",
-    "nombre": "ROSALES RAMOS DIEGO HERON"
-  },
-  {
-    "cuenta": "2021158",
-    "plan": "IME-F19",
-    "fecha": "14/07/2025",
-    "hora": "09:20",
-    "nombre": "LOPEZ RENTERIA NORBERTO"
-  },
-  {
-    "cuenta": "2421152",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "09:20",
-    "nombre": "NICANOR ROSAS FERNANDA PAOLA"
-  },
-  {
-    "cuenta": "1512027",
-    "plan": "IME-F19",
-    "fecha": "14/07/2025",
-    "hora": "10:20",
-    "nombre": "ORTEGA REYES EMMANUEL"
-  },
-  {
-    "cuenta": "2113400",
-    "plan": "ISES-F24",
-    "fecha": "14/07/2025",
-    "hora": "10:20",
-    "nombre": "PEREZ URBAN FERNANDA ABIGAIL"
-  },
-  {
-    "cuenta": "1710076",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "10:20",
-    "nombre": "ARROYO MARTINEZ MARIANA"
-  },
-  {
-    "cuenta": "2113698",
-    "plan": "IME-F19",
-    "fecha": "14/07/2025",
-    "hora": "10:20",
-    "nombre": "AGUILAR HERNANDEZ HUGO ROGELIO"
-  },
-  {
-    "cuenta": "2320021",
-    "plan": "IME-F19",
-    "fecha": "14/07/2025",
-    "hora": "10:20",
-    "nombre": "MEJIA CORTES CARLOS FRANCISCO"
-  },
-  {
-    "cuenta": "1813524",
-    "plan": "IME-F19",
-    "fecha": "14/07/2025",
-    "hora": "10:20",
-    "nombre": "NIETO CASTAÑEDA ISAAC"
-  },
-  {
-    "cuenta": "2011066",
-    "plan": "IME-F19",
-    "fecha": "14/07/2025",
-    "hora": "10:20",
-    "nombre": "SANCHEZ SILVA LUIS DANIEL"
-  },
-  {
-    "cuenta": "2121190",
-    "plan": "ICO-F19",
-    "fecha": "14/07/2025",
-    "hora": "10:20",
-    "nombre": "SANCHEZ ESCUTIA ALEXANDER SEBASTIAN"
-  },
-  {
-    "cuenta": "1921053",
-    "plan": "IME-F19",
-    "fecha": "14/07/2025",
-    "hora": "10:20",
-    "nombre": "VILCHIS AVILES URIEL"
-  },
-  {
-    "cuenta": "2221339",
-    "plan": "IME-F19",
-    "fecha": "14/07/2025",
-    "hora": "10:20",
-    "nombre": "REYNOSO VIEYRA CARLOS EDUARDO"
-  },
-  {
-    "cuenta": "1713059",
-    "plan": "IME-F19",
-    "fecha": "14/07/2025",
-    "hora": "10:20",
-    "nombre": "CAMACHO CHICO JOAQUIN"
-  },
-  {
-    "cuenta": "1412440",
+    "cuenta": "1312783",
     "plan": "IME-F3",
-    "fecha": "14/07/2025",
-    "hora": "10:20",
-    "nombre": "JACINTO OLIVARES JULIO LEONARDO"
-  },
-  {
-    "cuenta": "1813518",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "10:20",
-    "nombre": "NAVA GARCES ERICK"
-  },
-  {
-    "cuenta": "2221146",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "11:20",
-    "nombre": "CRUZ BECERRIL FATIMA DANIELA"
-  },
-  {
-    "cuenta": "2021044",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "11:20",
-    "nombre": "GARCIA MARTINEZ JOSE ALFONSO"
-  },
-  {
-    "cuenta": "1614965",
-    "plan": "IME-F19",
-    "fecha": "14/07/2025",
-    "hora": "11:20",
-    "nombre": "SALOME CORNEJO ROBERTO CARLOS"
-  },
-  {
-    "cuenta": "2321080",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "11:20",
-    "nombre": "LEON MARTINEZ JOSE MANUEL"
-  },
-  {
-    "cuenta": "2020036",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "11:20",
-    "nombre": "MORALES MEDINA RAFAEL"
-  },
-  {
-    "cuenta": "2221189",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "11:20",
-    "nombre": "PASCUAL UGARTE MONTSERRAT"
-  },
-  {
-    "cuenta": "2121235",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "11:20",
-    "nombre": "MOLINA RAYO ALAN"
-  },
-  {
-    "cuenta": "2321125",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "11:20",
-    "nombre": "ZARCO PAULIN GIANCARLO"
-  },
-  {
-    "cuenta": "1910267",
-    "plan": "IEL-F19",
-    "fecha": "14/07/2025",
-    "hora": "11:20",
-    "nombre": "DAVILA MARTINEZ YADIRA"
-  },
-  {
-    "cuenta": "2221243",
-    "plan": "IEL-F19",
-    "fecha": "14/07/2025",
-    "hora": "11:20",
-    "nombre": "TIBURCIO EUSEBIO MARCO ANTONIO"
-  },
-  {
-    "cuenta": "2020050",
-    "plan": "IEL-F19",
-    "fecha": "14/07/2025",
-    "hora": "11:20",
-    "nombre": "ARRIAGA VALENCIA RAFAEL"
-  },
-  {
-    "cuenta": "2110522",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "11:20",
-    "nombre": "HERNANDEZ ARZATE LEONARDO JESUS"
-  },
-  {
-    "cuenta": "2012034",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "11:20",
-    "nombre": "NEGRETE PALOMAREZ CRISTIAN"
-  },
-  {
-    "cuenta": "2020997",
-    "plan": "ICO-F19",
-    "fecha": "14/07/2025",
+    "fecha": "15/07/2025",
     "hora": "12:20",
-    "nombre": "NAVARRO HURTADO KAREN"
+    "nombre": "ROQUE MEDINA JOSE MARTIN"
   },
   {
-    "cuenta": "2520033",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "12:20",
-    "nombre": "VIEYRA MONTES DE OCA VANESSA"
-  },
-  {
-    "cuenta": "1510073",
+    "cuenta": "2325026",
     "plan": "IEL-F19",
-    "fecha": "14/07/2025",
+    "fecha": "15/07/2025",
     "hora": "12:20",
-    "nombre": "ORTIZ PANTOJA GUSTAVO ALBERTO"
+    "nombre": "ZACARIAS ZACARIAS JESUS RAFAEL"
   },
   {
-    "cuenta": "2121224",
+    "cuenta": "1611444",
     "plan": "ICI-F19",
-    "fecha": "14/07/2025",
+    "fecha": "15/07/2025",
     "hora": "12:20",
-    "nombre": "JIMENEZ MONDRAGON ANDREA"
+    "nombre": "HINOJOSA AGUILAR CAYETANO"
   },
   {
-    "cuenta": "1713253",
+    "cuenta": "1913262",
     "plan": "ISES-F3",
-    "fecha": "14/07/2025",
+    "fecha": "15/07/2025",
     "hora": "12:20",
-    "nombre": "GONZALEZ INIESTA JOSE MANUEL"
+    "nombre": "VELAZQUEZ VAZQUEZ ARANTXA ELIS"
   },
   {
-    "cuenta": "1841511",
+    "cuenta": "1940922",
+    "plan": "ISES-F3",
+    "fecha": "15/07/2025",
+    "hora": "12:20",
+    "nombre": "NARCIZO TORRES ISMAEL"
+  },
+  {
+    "cuenta": "1810777",
     "plan": "ICI-F19",
-    "fecha": "14/07/2025",
+    "fecha": "15/07/2025",
     "hora": "12:20",
-    "nombre": "MEZA ROMERO SARAHI GUADALUPE"
+    "nombre": "RAMIREZ ROJAS GUILLERMO IGNACIO"
   },
   {
-    "cuenta": "1914617",
+    "cuenta": "2221300",
+    "plan": "IME-F19",
+    "fecha": "15/07/2025",
+    "hora": "12:20",
+    "nombre": "ESPINOZA ESQUIVEL JHAN CARLOS"
+  },
+  {
+    "cuenta": "2121372",
+    "plan": "IME-F19",
+    "fecha": "15/07/2025",
+    "hora": "12:20",
+    "nombre": "VAZQUEZ PASTRANA ALEXA"
+  },
+  {
+    "cuenta": "2421125",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "12:20",
+    "nombre": "GONZALEZ MILLAN JAVIER"
+  },
+  {
+    "cuenta": "1913668",
     "plan": "ICO-F19",
-    "fecha": "14/07/2025",
+    "fecha": "15/07/2025",
     "hora": "12:20",
-    "nombre": "RODRIGUEZ MARTINEZ EMMANUEL"
+    "nombre": "OROZCO COLIN FRANCISCO URIEL"
   },
   {
-    "cuenta": "2321076",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "12:20",
-    "nombre": "HURTADO GOMEZ CAMILO DANIEL"
+    "cuenta": "1917198",
+    "plan": "ISES-F3",
+    "fecha": "15/07/2025",
+    "hora": "13:20",
+    "nombre": "ESTRADA LUNA JORGE EMILIANO"
   },
   {
-    "cuenta": "1641614",
+    "cuenta": "1612860",
+    "plan": "IME-F19",
+    "fecha": "15/07/2025",
+    "hora": "13:20",
+    "nombre": "SALCEDO CASTILLO YAIR ABISAY"
+  },
+  {
+    "cuenta": "2221210",
+    "plan": "IEL-F19",
+    "fecha": "15/07/2025",
+    "hora": "13:20",
+    "nombre": "CARRETO ISLAS HUGO AXEL"
+  },
+  {
+    "cuenta": "1612210",
+    "plan": "ICI-F3",
+    "fecha": "15/07/2025",
+    "hora": "13:20",
+    "nombre": "DE LA LUZ SANCHEZ JOSE ALEJANDRO"
+  },
+  {
+    "cuenta": "2321137",
+    "plan": "IEL-F19",
+    "fecha": "15/07/2025",
+    "hora": "13:20",
+    "nombre": "CLAVEL CORONA DYLAN SCOTT"
+  },
+  {
+    "cuenta": "2421066",
     "plan": "ICO-F19",
-    "fecha": "14/07/2025",
-    "hora": "12:20",
-    "nombre": "GUTIERREZ CHAVEZ ISRAEL"
+    "fecha": "15/07/2025",
+    "hora": "13:20",
+    "nombre": "NUÑEZ JARDON DIEGO"
   },
   {
-    "cuenta": "2320012",
+    "cuenta": "2373662",
+    "plan": "IEL-F19",
+    "fecha": "15/07/2025",
+    "hora": "13:20",
+    "nombre": "RAMIREZ ROSALES DENISE ASTRID"
+  },
+  {
+    "cuenta": "2420014",
+    "plan": "IME-F19",
+    "fecha": "15/07/2025",
+    "hora": "13:20",
+    "nombre": "SANCHEZ GUTIERREZ EMMANUEL"
+  },
+  {
+    "cuenta": "2014770",
+    "plan": "IEL-F19",
+    "fecha": "15/07/2025",
+    "hora": "13:20",
+    "nombre": "GONZALEZ CALDERON ROBERTO"
+  },
+  {
+    "cuenta": "2121277",
+    "plan": "IEL-F19",
+    "fecha": "15/07/2025",
+    "hora": "13:20",
+    "nombre": "MAYA RAMIREZ JONATHAN"
+  },
+  {
+    "cuenta": "2014443",
+    "plan": "IEL-F19",
+    "fecha": "15/07/2025",
+    "hora": "13:20",
+    "nombre": "ARENAS GOMEZ ANGEL MISAEL"
+  },
+  {
+    "cuenta": "1912896",
     "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "12:20",
-    "nombre": "ROSALES ROMERO JOSE ENRIQUE"
+    "fecha": "15/07/2025",
+    "hora": "13:20",
+    "nombre": "MERCADO BALLESTEROS JOSE ALBERTO"
   },
   {
-    "cuenta": "2114637",
+    "cuenta": "2321165",
+    "plan": "IEL-F19",
+    "fecha": "15/07/2025",
+    "hora": "13:20",
+    "nombre": "MARTINEZ  ALEXIS"
+  },
+  {
+    "cuenta": "2421108",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "13:20",
+    "nombre": "CUEVAS VAZQUEZ XIMENA"
+  },
+  {
+    "cuenta": "2421177",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "13:20",
+    "nombre": "SANCHEZ DESALES FERNANDA"
+  },
+  {
+    "cuenta": "2421017",
+    "plan": "ICO-F19",
+    "fecha": "15/07/2025",
+    "hora": "14:20",
+    "nombre": "BUCIO MONDRAGON DANIEL"
+  },
+  {
+    "cuenta": "2321258",
+    "plan": "IME-F19",
+    "fecha": "15/07/2025",
+    "hora": "14:20",
+    "nombre": "CONSUELO GARCIA JOSE PEDRO"
+  },
+  {
+    "cuenta": "2042946",
+    "plan": "ISES-F3",
+    "fecha": "15/07/2025",
+    "hora": "14:20",
+    "nombre": "FLORES SALINAS VALENTIN"
+  },
+  {
+    "cuenta": "1515030",
+    "plan": "ICO-F3",
+    "fecha": "15/07/2025",
+    "hora": "14:20",
+    "nombre": "MENDOZA REYES LUIS DAVID"
+  },
+  {
+    "cuenta": "2021067",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "14:20",
+    "nombre": "RUBIO GOMEZ VICENTE"
+  },
+  {
+    "cuenta": "2114945",
+    "plan": "ICO-F19",
+    "fecha": "15/07/2025",
+    "hora": "14:20",
+    "nombre": "MEDINA VEGA CARLOS ALEJANDRO"
+  },
+  {
+    "cuenta": "2120034",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "14:20",
+    "nombre": "FIERROS CAMPUZANO JAZMIN JANET"
+  },
+  {
+    "cuenta": "2321070",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "14:20",
+    "nombre": "GOMEZ LOPEZ ALEXIS GEHOVANNI"
+  },
+  {
+    "cuenta": "2221226",
+    "plan": "IEL-F19",
+    "fecha": "15/07/2025",
+    "hora": "14:20",
+    "nombre": "MAYA DIAZ JORGE ARMANDO"
+  },
+  {
+    "cuenta": "2020032",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "14:20",
+    "nombre": "MARTINEZ VIAL JASARELA"
+  },
+  {
+    "cuenta": "2121307",
+    "plan": "ISES-F3",
+    "fecha": "15/07/2025",
+    "hora": "14:20",
+    "nombre": "MARIN DIONICIO LIZBETH"
+  },
+  {
+    "cuenta": "1820043",
+    "plan": "IME-F3",
+    "fecha": "15/07/2025",
+    "hora": "14:20",
+    "nombre": "DAVILA BERNARDINO EDUARDO"
+  },
+  {
+    "cuenta": "1645450",
+    "plan": "IEL-F19",
+    "fecha": "15/07/2025",
+    "hora": "14:20",
+    "nombre": "SANCHEZ MARTINEZ CRISTIAN SAUL"
+  },
+  {
+    "cuenta": "2121336",
+    "plan": "IME-F19",
+    "fecha": "15/07/2025",
+    "hora": "14:20",
+    "nombre": "CONTRERAS HERNANDEZ ALEJANDRO"
+  },
+  {
+    "cuenta": "1842856",
+    "plan": "ISES-F3",
+    "fecha": "15/07/2025",
+    "hora": "14:20",
+    "nombre": "GOMEZ SANCHEZ ALEXANDRA"
+  },
+  {
+    "cuenta": "2221341",
+    "plan": "IME-F19",
+    "fecha": "15/07/2025",
+    "hora": "15:20",
+    "nombre": "RODRIGUEZ FLORES FRANCISCO"
+  },
+  {
+    "cuenta": "2421207",
+    "plan": "IEL-F19",
+    "fecha": "15/07/2025",
+    "hora": "15:20",
+    "nombre": "ESQUIVEL MONTES DE OCA DAVID"
+  },
+  {
+    "cuenta": "2220013",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "15:20",
+    "nombre": "BECERRIL MATEO BRANDON"
+  },
+  {
+    "cuenta": "1912074",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "15:20",
+    "nombre": "SANCHEZ GONZALEZ VIOLETA"
+  },
+  {
+    "cuenta": "2114980",
     "plan": "ISES-F24",
-    "fecha": "14/07/2025",
-    "hora": "12:20",
-    "nombre": "DIAZ MONDRAGON MELANIE YANIN"
+    "fecha": "15/07/2025",
+    "hora": "15:20",
+    "nombre": "MIRANDA ESTRADA RAFAEL"
   },
   {
-    "cuenta": "2520010",
+    "cuenta": "2321118",
     "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "12:20",
-    "nombre": "CRUZ TEOFILO ALAN"
+    "fecha": "15/07/2025",
+    "hora": "15:20",
+    "nombre": "VALDES GONZALEZ LEONARDO"
   },
   {
-    "cuenta": "2020044",
+    "cuenta": "1610330",
     "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "12:20",
-    "nombre": "REYES MALDONADO LINDA AZUCENA"
+    "fecha": "15/07/2025",
+    "hora": "15:20",
+    "nombre": "GARCIA LOPEZ JOHANA MONSERRAT"
   },
   {
-    "cuenta": "1414413",
-    "plan": "ISES-F3",
-    "fecha": "14/07/2025",
-    "hora": "13:20",
-    "nombre": "VAZQUEZ MEJIA XIMENA"
-  },
-  {
-    "cuenta": "1817324",
-    "plan": "IME-F19",
-    "fecha": "14/07/2025",
-    "hora": "13:20",
-    "nombre": "GONZALEZ MARTINEZ ANGEL JESUS"
-  },
-  {
-    "cuenta": "2321018",
+    "cuenta": "1713167",
     "plan": "ICO-F19",
-    "fecha": "14/07/2025",
-    "hora": "13:20",
-    "nombre": "NAVA SEGUNDO DAVID FRANCISCO"
+    "fecha": "15/07/2025",
+    "hora": "15:20",
+    "nombre": "ESQUIVEL VILCHIS ANGEL EMMANUEL"
   },
   {
-    "cuenta": "2421211",
+    "cuenta": "1811171",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "15:20",
+    "nombre": "AREVALO LEONARDO CESAR"
+  },
+  {
+    "cuenta": "1845343",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "15:20",
+    "nombre": "RAMOS JAIME PEDRO LEONARDO"
+  },
+  {
+    "cuenta": "2421063",
+    "plan": "ICO-F19",
+    "fecha": "15/07/2025",
+    "hora": "15:20",
+    "nombre": "MEDINA AGUILAR MIGUEL ANGEL"
+  },
+  {
+    "cuenta": "2015063",
     "plan": "IEL-F19",
-    "fecha": "14/07/2025",
-    "hora": "13:20",
-    "nombre": "GONZALEZ HERNANDEZ SADRACH"
+    "fecha": "15/07/2025",
+    "hora": "15:20",
+    "nombre": "NAVA PEREZ EDGAR JESUS"
   },
   {
-    "cuenta": "1912332",
-    "plan": "ICO-F19",
-    "fecha": "14/07/2025",
-    "hora": "13:20",
-    "nombre": "BURROLA GUTIERREZ IAN EDUARDO"
+    "cuenta": "2016156",
+    "plan": "IEL-F19",
+    "fecha": "15/07/2025",
+    "hora": "15:20",
+    "nombre": "VELUETA GONZALEZ FRIDA FERNANDA"
   },
   {
-    "cuenta": "2121234",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "13:20",
-    "nombre": "MOLINA MONTES DE OCA JUAN PABLO"
-  },
-  {
-    "cuenta": "2114924",
+    "cuenta": "1210584",
     "plan": "IIA-F24",
-    "fecha": "14/07/2025",
-    "hora": "13:20",
-    "nombre": "MARTINEZ JIMENEZ JOSE JULIAN"
+    "fecha": "15/07/2025",
+    "hora": "15:20",
+    "nombre": "MEDINA JARAMILLO PAULINA"
   },
   {
-    "cuenta": "2321009",
-    "plan": "ICO-F19",
-    "fecha": "14/07/2025",
-    "hora": "13:20",
-    "nombre": "MEDINA DIAZ NESTOR ARIEL"
-  },
-  {
-    "cuenta": "2121295",
-    "plan": "ISES-F3",
-    "fecha": "14/07/2025",
-    "hora": "13:20",
-    "nombre": "DE LA MORA QUEVEDO MARIEL"
-  },
-  {
-    "cuenta": "1841845",
+    "cuenta": "2110425",
     "plan": "IME-F19",
-    "fecha": "14/07/2025",
-    "hora": "13:20",
-    "nombre": "OLVERA VAZQUEZ DANA PAOLA"
+    "fecha": "15/07/2025",
+    "hora": "15:20",
+    "nombre": "GARDUÑO RUIZ KAROL YAEL"
   },
   {
-    "cuenta": "2011136",
+    "cuenta": "2221296",
+    "plan": "IME-F19",
+    "fecha": "15/07/2025",
+    "hora": "16:20",
+    "nombre": "DORAN ORDOÑEZ BRAYAN ABEL"
+  },
+  {
+    "cuenta": "2221141",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "16:20",
+    "nombre": "BENITEZ SANCHEZ SALVADOR"
+  },
+  {
+    "cuenta": "1610089",
     "plan": "ICO-F19",
-    "fecha": "14/07/2025",
-    "hora": "13:20",
-    "nombre": "VALENCIA RAMIREZ LESLYE YULISSA"
+    "fecha": "15/07/2025",
+    "hora": "16:20",
+    "nombre": "BARRERA TAMARIZ JOSE FRANCISCO"
   },
   {
-    "cuenta": "2321216",
+    "cuenta": "2021050",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "16:20",
+    "nombre": "JIMENEZ SANTOS DIANA LAURA"
+  },
+  {
+    "cuenta": "1921005",
+    "plan": "ICI-F3",
+    "fecha": "15/07/2025",
+    "hora": "16:20",
+    "nombre": "RODRIGUEZ CRUZ EMILIANO"
+  },
+  {
+    "cuenta": "1921110",
     "plan": "ISES-F3",
-    "fecha": "14/07/2025",
-    "hora": "13:20",
-    "nombre": "HERNANDEZ MIRANDA PABLO RODRIGO"
+    "fecha": "15/07/2025",
+    "hora": "16:20",
+    "nombre": "MORALES VELASCO ALDO"
   },
   {
-    "cuenta": "1713449",
-    "plan": "ISES-F24",
-    "fecha": "14/07/2025",
-    "hora": "13:20",
-    "nombre": "OLIVO PATIÑO LUIS ANGEL"
-  },
-  {
-    "cuenta": "2421247",
+    "cuenta": "2421201",
     "plan": "IEL-F19",
-    "fecha": "14/07/2025",
-    "hora": "14:20",
-    "nombre": "VERGARA PATIÑO NESTOR ESAU"
+    "fecha": "15/07/2025",
+    "hora": "16:20",
+    "nombre": "DIAZ PEREZ EDGAR"
   },
   {
-    "cuenta": "2012720",
-    "plan": "ISES-F3",
-    "fecha": "14/07/2025",
-    "hora": "14:20",
-    "nombre": "FLORES RETANA AARON"
-  },
-  {
-    "cuenta": "2041929",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "14:20",
-    "nombre": "ZARATE PADRON ALONDRA ITZEL"
-  },
-  {
-    "cuenta": "2172754",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "14:20",
-    "nombre": "TELLEZ JIMENEZ DEISY ANDREA"
-  },
-  {
-    "cuenta": "1810801",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "14:20",
-    "nombre": "REYES JIMENEZ JORGE LUIS"
-  },
-  {
-    "cuenta": "1814598",
-    "plan": "ISES-F3",
-    "fecha": "14/07/2025",
-    "hora": "14:20",
-    "nombre": "VALDES SANCHEZ JOSE FABIAN"
-  },
-  {
-    "cuenta": "2014400",
+    "cuenta": "2018235",
     "plan": "ICO-F19",
-    "fecha": "14/07/2025",
-    "hora": "14:20",
-    "nombre": "AGUILAR PEREZ ALAN"
+    "fecha": "15/07/2025",
+    "hora": "16:20",
+    "nombre": "NICOLAS CASIANO JEZIEL"
   },
   {
-    "cuenta": "2112605",
+    "cuenta": "1942204",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "16:20",
+    "nombre": "GONZALEZ BERNAL EMILIANO"
+  },
+  {
+    "cuenta": "2320983",
+    "plan": "ICO-F19",
+    "fecha": "15/07/2025",
+    "hora": "16:20",
+    "nombre": "EVANGELISTA DE LA CRUZ DANIEL"
+  },
+  {
+    "cuenta": "2520035",
+    "plan": "IEL-F19",
+    "fecha": "15/07/2025",
+    "hora": "16:20",
+    "nombre": "GONZALEZ AGUILAR GUILLERMO"
+  },
+  {
+    "cuenta": "2421276",
+    "plan": "IME-F19",
+    "fecha": "15/07/2025",
+    "hora": "16:20",
+    "nombre": "BARRANCO GALINDO SEBASTIAN"
+  },
+  {
+    "cuenta": "1313301",
+    "plan": "ICO-F19",
+    "fecha": "15/07/2025",
+    "hora": "16:20",
+    "nombre": "GARCIA ROMERO JORGE EDUARDO"
+  },
+  {
+    "cuenta": "2321259",
+    "plan": "IME-F19",
+    "fecha": "15/07/2025",
+    "hora": "16:20",
+    "nombre": "CORRAL JASSO MONSERRATH"
+  },
+  {
+    "cuenta": "2020042",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "16:20",
+    "nombre": "REYES CARRANZA SARA TANIA"
+  },
+  {
+    "cuenta": "2321192",
+    "plan": "IEL-F19",
+    "fecha": "15/07/2025",
+    "hora": "17:20",
+    "nombre": "VALLE GONZALEZ CESAR"
+  },
+  {
+    "cuenta": "2421266",
     "plan": "ISES-F24",
-    "fecha": "14/07/2025",
-    "hora": "14:20",
-    "nombre": "AGUILAR ESTRADA LEO YUXIMAR"
+    "fecha": "15/07/2025",
+    "hora": "17:20",
+    "nombre": "ROMERO BARON MARIA REGINA"
   },
   {
-    "cuenta": "2141996",
+    "cuenta": "2321176",
+    "plan": "IEL-F19",
+    "fecha": "15/07/2025",
+    "hora": "17:20",
+    "nombre": "OSORIO NAVARRETE ALONSO"
+  },
+  {
+    "cuenta": "2020070",
+    "plan": "ISES-F3",
+    "fecha": "15/07/2025",
+    "hora": "17:20",
+    "nombre": "FABIAN SILVERIO RICARDO ARILD"
+  },
+  {
+    "cuenta": "1713162",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "17:20",
+    "nombre": "ESQUIVEL HUEQUIS BRAYAN EMANUEL"
+  },
+  {
+    "cuenta": "2221357",
+    "plan": "IME-F19",
+    "fecha": "15/07/2025",
+    "hora": "17:20",
+    "nombre": "VARELA ALBARRAN JUAN MANUEL"
+  },
+  {
+    "cuenta": "2421026",
+    "plan": "ICO-F19",
+    "fecha": "15/07/2025",
+    "hora": "17:20",
+    "nombre": "DE LA CRUZ MARTINEZ ANGEL ISRAEL"
+  },
+  {
+    "cuenta": "2221162",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "17:20",
+    "nombre": "GONZALEZ RUBIO DANIELA"
+  },
+  {
+    "cuenta": "2321131",
+    "plan": "IEL-F19",
+    "fecha": "15/07/2025",
+    "hora": "17:20",
+    "nombre": "ARIAS ACEVEDO NOE"
+  },
+  {
+    "cuenta": "2421131",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "17:20",
+    "nombre": "JARAMILLO CIPRIANO PABLO FERNANDO"
+  },
+  {
+    "cuenta": "2221177",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "17:20",
+    "nombre": "MARTINEZ PEÑA JUAN PABLO"
+  },
+  {
+    "cuenta": "1913393",
+    "plan": "IME-F19",
+    "fecha": "15/07/2025",
+    "hora": "17:20",
+    "nombre": "CORRAL VALDES ERICK"
+  },
+  {
+    "cuenta": "1912577",
+    "plan": "IEL-F19",
+    "fecha": "15/07/2025",
+    "hora": "17:20",
+    "nombre": "GARCIA VIDAL ALEJANDRO"
+  },
+  {
+    "cuenta": "1742741",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "17:20",
+    "nombre": "URIBE GARCIA ISAI AXEL"
+  },
+  {
+    "cuenta": "2114730",
     "plan": "ISES-F24",
-    "fecha": "14/07/2025",
-    "hora": "14:20",
-    "nombre": "LOPEZ VARGAS ALAN ALEJANDRO"
+    "fecha": "15/07/2025",
+    "hora": "17:20",
+    "nombre": "GARCIA MENDOZA RICARDO"
   },
   {
-    "cuenta": "2421270",
+    "cuenta": "1646453",
+    "plan": "ISES-F3",
+    "fecha": "15/07/2025",
+    "hora": "18:20",
+    "nombre": "SALGADO FERNANDEZ ELIAB ALBERTO"
+  },
+  {
+    "cuenta": "2321238",
+    "plan": "ISES-F3",
+    "fecha": "15/07/2025",
+    "hora": "18:20",
+    "nombre": "TRUJILLO FLORES EDER ADRIAN"
+  },
+  {
+    "cuenta": "1910714",
+    "plan": "IME-F19",
+    "fecha": "15/07/2025",
+    "hora": "18:20",
+    "nombre": "MERCADO GONZALEZ CRISTOPHER"
+  },
+  {
+    "cuenta": "1441282",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "18:20",
+    "nombre": "MANOLIO ESTRADA JORGE"
+  },
+  {
+    "cuenta": "2014204",
+    "plan": "ICO-F19",
+    "fecha": "15/07/2025",
+    "hora": "18:20",
+    "nombre": "PORCAYO ESTRADA IKER GABRIEL"
+  },
+  {
+    "cuenta": "2141410",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "18:20",
+    "nombre": "MORALES BOTELLO ETIENNE"
+  },
+  {
+    "cuenta": "2273181",
+    "plan": "IEL-F19",
+    "fecha": "15/07/2025",
+    "hora": "18:20",
+    "nombre": "BOBADILLA LOPEZ EDDANA MARIA"
+  },
+  {
+    "cuenta": "2421241",
+    "plan": "IEL-F19",
+    "fecha": "15/07/2025",
+    "hora": "18:20",
+    "nombre": "SENOVIO ANGEL GABRIEL"
+  },
+  {
+    "cuenta": "1312300",
+    "plan": "ICI-F3",
+    "fecha": "15/07/2025",
+    "hora": "18:20",
+    "nombre": "GALINDO GIL ALFREDO"
+  },
+  {
+    "cuenta": "2113102",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "18:20",
+    "nombre": "HERNANDEZ ESCOBAR JOEL"
+  },
+  {
+    "cuenta": "2121219",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "18:20",
+    "nombre": "GIL AVILA MARVIN"
+  },
+  {
+    "cuenta": "1713973",
+    "plan": "IME-F19",
+    "fecha": "15/07/2025",
+    "hora": "18:20",
+    "nombre": "GOMEZ CASTREJON RODRIGO"
+  },
+  {
+    "cuenta": "1812874",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "18:20",
+    "nombre": "ROBLES ALBARRAN DIEGO EMMANUEL"
+  },
+  {
+    "cuenta": "1642952",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "18:20",
+    "nombre": "LARA REYES ERNESTO DAVID"
+  },
+  {
+    "cuenta": "1810564",
+    "plan": "ICI-F19",
+    "fecha": "15/07/2025",
+    "hora": "18:20",
+    "nombre": "MARTINEZ GARCIA EDER ABED"
+  },
+  {
+    "cuenta": "1513639",
+    "plan": "ICI-F3",
+    "fecha": "16/07/2025",
+    "hora": "08:20",
+    "nombre": "SOTO NAJERA JOSE ANTONIO"
+  },
+  {
+    "cuenta": "2221340",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "08:20",
+    "nombre": "RIVERA JARAMILLO MARICELA"
+  },
+  {
+    "cuenta": "1713512",
+    "plan": "IEL-F19",
+    "fecha": "16/07/2025",
+    "hora": "08:20",
+    "nombre": "RAMIREZ MARTINEZ JAN LEONE"
+  },
+  {
+    "cuenta": "1912271",
+    "plan": "ISES-F3",
+    "fecha": "16/07/2025",
+    "hora": "08:20",
+    "nombre": "ARCHUNDIA RODRIGUEZ JESUS YAEL"
+  },
+  {
+    "cuenta": "2421067",
+    "plan": "ICO-F19",
+    "fecha": "16/07/2025",
+    "hora": "08:20",
+    "nombre": "OCAÑA MARTINEZ JOAN ALEXIS"
+  },
+  {
+    "cuenta": "2221172",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "08:20",
+    "nombre": "MAGNO TREVILLA AARON"
+  },
+  {
+    "cuenta": "1510747",
+    "plan": "ISES-F3",
+    "fecha": "16/07/2025",
+    "hora": "08:20",
+    "nombre": "MONTAÑO SANCHEZ ALEJANDRO"
+  },
+  {
+    "cuenta": "2321275",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "08:20",
+    "nombre": "GONZALEZ ESTRADA JOSE ELIMI"
+  },
+  {
+    "cuenta": "2421081",
+    "plan": "ICO-F19",
+    "fecha": "16/07/2025",
+    "hora": "08:20",
+    "nombre": "ROMERO PADILLA FELIPE GAEL"
+  },
+  {
+    "cuenta": "2040888",
     "plan": "ISES-F24",
-    "fecha": "14/07/2025",
-    "hora": "14:20",
-    "nombre": "VILLAFUERTE LARA ARLETH"
+    "fecha": "16/07/2025",
+    "hora": "08:20",
+    "nombre": "ALVAREZ FONSECA JORGE NAHUM"
   },
   {
-    "cuenta": "1210043",
+    "cuenta": "2044592",
+    "plan": "ICO-F19",
+    "fecha": "16/07/2025",
+    "hora": "08:20",
+    "nombre": "CONTRERAS ESQUIVEL ARIEL LEVIC"
+  },
+  {
+    "cuenta": "2011682",
+    "plan": "IEL-F19",
+    "fecha": "16/07/2025",
+    "hora": "08:20",
+    "nombre": "GONZALEZ MEJIA JOSE EDUARDO"
+  },
+  {
+    "cuenta": "2520019",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "08:20",
+    "nombre": "HERNANDEZ VILLAR KAROL"
+  },
+  {
+    "cuenta": "1611322",
+    "plan": "ICI-F3",
+    "fecha": "16/07/2025",
+    "hora": "08:20",
+    "nombre": "GONZALEZ ESCALONA LUIS OSWALDO"
+  },
+  {
+    "cuenta": "2472313",
+    "plan": "IEL-F19",
+    "fecha": "16/07/2025",
+    "hora": "08:20",
+    "nombre": "CORONA ESPINOSA JESUS ESTHEFAN"
+  },
+  {
+    "cuenta": "2421036",
+    "plan": "ICO-F19",
+    "fecha": "16/07/2025",
+    "hora": "09:20",
+    "nombre": "GOMEZ GARCIA VALENTIN ISMAEL"
+  },
+  {
+    "cuenta": "2421306",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "09:20",
+    "nombre": "PACHECO BENITEZ EDWIN RAUL"
+  },
+  {
+    "cuenta": "1973077",
+    "plan": "ISES-F3",
+    "fecha": "16/07/2025",
+    "hora": "09:20",
+    "nombre": "TRUJILLO GUTIERREZ BRANDON LEONEL"
+  },
+  {
+    "cuenta": "1713205",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "09:20",
+    "nombre": "GARCIA CARDENAS MARTIN ALEJANDRO"
+  },
+  {
+    "cuenta": "2472326",
+    "plan": "ISES-F24",
+    "fecha": "16/07/2025",
+    "hora": "09:20",
+    "nombre": "CARACOZA MIRANDA REBECA NATALIA"
+  },
+  {
+    "cuenta": "2114399",
+    "plan": "IEL-F19",
+    "fecha": "16/07/2025",
+    "hora": "09:20",
+    "nombre": "ABASOLO HERNANDEZ GABRIEL"
+  },
+  {
+    "cuenta": "1920996",
+    "plan": "ICI-F3",
+    "fecha": "16/07/2025",
+    "hora": "09:20",
+    "nombre": "MIRALRIO DIAZ RUBEN"
+  },
+  {
+    "cuenta": "2421098",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "09:20",
+    "nombre": "ANZALDO ALVAREZ ANA KAREN"
+  },
+  {
+    "cuenta": "1512212",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "09:20",
+    "nombre": "POPOCA BORJA ALEXIS"
+  },
+  {
+    "cuenta": "2114916",
+    "plan": "ISES-F24",
+    "fecha": "16/07/2025",
+    "hora": "09:20",
+    "nombre": "MARTINEZ CASTILLO CHRISTIAN AARON"
+  },
+  {
+    "cuenta": "2321294",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "09:20",
+    "nombre": "MONTUFAR OLIVARES SEBASTIAN ZAID"
+  },
+  {
+    "cuenta": "2221060",
+    "plan": "ICO-F19",
+    "fecha": "16/07/2025",
+    "hora": "09:20",
+    "nombre": "DAVILA VILLAVICENCIO FRANCISCO JAVIER"
+  },
+  {
+    "cuenta": "1711530",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "09:20",
+    "nombre": "MARTINEZ LOPEZ ALEXANDRA LEYLANI"
+  },
+  {
+    "cuenta": "1941041",
     "plan": "IIA-F24",
-    "fecha": "14/07/2025",
-    "hora": "14:20",
-    "nombre": "ALCANTAR GUTIERREZ LUIS ANGEL"
+    "fecha": "16/07/2025",
+    "hora": "09:20",
+    "nombre": "GOMEZ DOMINGUEZ ALDO ALESSANDRO"
   },
   {
-    "cuenta": "2015142",
-    "plan": "IME-F19",
-    "fecha": "14/07/2025",
-    "hora": "14:20",
-    "nombre": "PLATA ESCAMILLA ALONSO"
-  },
-  {
-    "cuenta": "1910030",
-    "plan": "IME-F19",
-    "fecha": "14/07/2025",
-    "hora": "14:20",
-    "nombre": "ALARCON ESTRADA JOSE ALBERTO"
-  },
-  {
-    "cuenta": "2321017",
-    "plan": "ICO-F19",
-    "fecha": "14/07/2025",
-    "hora": "15:20",
-    "nombre": "NATERA CARRILLO ULISES ALEJANDRO"
-  },
-  {
-    "cuenta": "2121229",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "15:20",
-    "nombre": "MARTINEZ VARGAS NATHANIEL"
-  },
-  {
-    "cuenta": "1214070",
-    "plan": "ICI-F3",
-    "fecha": "14/07/2025",
-    "hora": "15:20",
-    "nombre": "LARA SANCHEZ EMMANUEL"
-  },
-  {
-    "cuenta": "2011489",
-    "plan": "IEL-F19",
-    "fecha": "14/07/2025",
-    "hora": "15:20",
-    "nombre": "CUADROS SANTOS ERIC RAMON"
-  },
-  {
-    "cuenta": "2043550",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "15:20",
-    "nombre": "CASTAÑEDA CISNEROS KEVIN EDUARDO"
-  },
-  {
-    "cuenta": "2114185",
-    "plan": "ISES-F24",
-    "fecha": "14/07/2025",
-    "hora": "15:20",
-    "nombre": "PEREZ ROMERO RODOLFO JOB"
-  },
-  {
-    "cuenta": "2110324",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "15:20",
-    "nombre": "ESQUIVEL CABRERA URIEL"
-  },
-  {
-    "cuenta": "2321231",
+    "cuenta": "1614300",
     "plan": "ISES-F3",
-    "fecha": "14/07/2025",
-    "hora": "15:20",
-    "nombre": "PALACIOS MORALES MARIO IRVIN"
+    "fecha": "16/07/2025",
+    "hora": "09:20",
+    "nombre": "QUINTANA CASTILLO CAMILA DE JESUS"
   },
   {
-    "cuenta": "2121251",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "15:20",
-    "nombre": "SANCHEZ REYES JORGE EMMANUEL"
-  },
-  {
-    "cuenta": "2472339",
-    "plan": "ISES-F24",
-    "fecha": "14/07/2025",
-    "hora": "15:20",
-    "nombre": "ROJO MEDINA PABLO ANDRES"
-  },
-  {
-    "cuenta": "1912210",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "15:20",
-    "nombre": "VILLASEÑOR AVILA CRISTIAN EMILIO"
-  },
-  {
-    "cuenta": "1613514",
-    "plan": "IME-F19",
-    "fecha": "14/07/2025",
-    "hora": "15:20",
-    "nombre": "PICHARDO CRUZ EVERARDO DANIEL"
-  },
-  {
-    "cuenta": "2021017",
+    "cuenta": "2421047",
     "plan": "ICO-F19",
-    "fecha": "14/07/2025",
-    "hora": "15:20",
-    "nombre": "SANCHEZ GONZALEZ JESUS"
+    "fecha": "16/07/2025",
+    "hora": "10:20",
+    "nombre": "HERNANDEZ HERNANDEZ ALAN MAURICIO"
   },
   {
-    "cuenta": "2273547",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "16:20",
-    "nombre": "ARELLANO CONTRERAS JEOVANI ALEXIS"
-  },
-  {
-    "cuenta": "2141853",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "16:20",
-    "nombre": "VELASCO VELAZQUEZ RAUL"
-  },
-  {
-    "cuenta": "1611915",
-    "plan": "ICO-F19",
-    "fecha": "14/07/2025",
-    "hora": "16:20",
-    "nombre": "SUAREZ SOLARES JOSUE ABISAI"
-  },
-  {
-    "cuenta": "1872101",
-    "plan": "IME-F3",
-    "fecha": "14/07/2025",
-    "hora": "16:20",
-    "nombre": "DE PAZ ARELLANO LUIS FERNANDO"
-  },
-  {
-    "cuenta": "2220011",
-    "plan": "ICO-F19",
-    "fecha": "14/07/2025",
-    "hora": "16:20",
-    "nombre": "PEÑALOZA TAPIA GABRIELA JOSELIN"
-  },
-  {
-    "cuenta": "2110161",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "16:20",
-    "nombre": "CAMACHO VELAZQUEZ DIANA ELENA"
-  },
-  {
-    "cuenta": "2472334",
-    "plan": "ISES-F24",
-    "fecha": "14/07/2025",
-    "hora": "16:20",
-    "nombre": "GONZALEZ FABIAN SANTIAGO"
-  },
-  {
-    "cuenta": "2021053",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "16:20",
-    "nombre": "MARTINEZ VIDAL KARLA"
-  },
-  {
-    "cuenta": "1910557",
-    "plan": "ICO-F19",
-    "fecha": "14/07/2025",
-    "hora": "16:20",
-    "nombre": "HERNANDEZ VELAZQUEZ DIEGO ESAU"
-  },
-  {
-    "cuenta": "1811451",
-    "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "16:20",
-    "nombre": "GONZALEZ PADILLA JONATHAN"
-  },
-  {
-    "cuenta": "2020975",
-    "plan": "ICO-F19",
-    "fecha": "14/07/2025",
-    "hora": "16:20",
-    "nombre": "GOMEZ JIMENEZ DIEGO ARMANDO"
-  },
-  {
-    "cuenta": "1921093",
+    "cuenta": "2221228",
     "plan": "IEL-F19",
-    "fecha": "14/07/2025",
-    "hora": "16:20",
-    "nombre": "SANCHEZ BIBIANO BRIAN EDREHI"
+    "fecha": "16/07/2025",
+    "hora": "10:20",
+    "nombre": "NAVA VARGAS JOSE ARMANDO"
   },
   {
-    "cuenta": "2110780",
+    "cuenta": "1913837",
+    "plan": "IEL-F19",
+    "fecha": "16/07/2025",
+    "hora": "10:20",
+    "nombre": "TREJO GARCIA JESUS GERARDO"
+  },
+  {
+    "cuenta": "1911765",
+    "plan": "ICO-F19",
+    "fecha": "16/07/2025",
+    "hora": "10:20",
+    "nombre": "MARTINEZ MEJIA FRANCISCO ALBERTO"
+  },
+  {
+    "cuenta": "1612471",
     "plan": "IME-F19",
-    "fecha": "14/07/2025",
-    "hora": "16:20",
-    "nombre": "NAVA HUERTA ANGEL"
+    "fecha": "16/07/2025",
+    "hora": "10:20",
+    "nombre": "IGLESIAS BECERRIL KARLO RENE"
   },
   {
-    "cuenta": "1972491",
+    "cuenta": "2221067",
+    "plan": "ICO-F19",
+    "fecha": "16/07/2025",
+    "hora": "10:20",
+    "nombre": "FLOREAN DE LUCIO LEONARDO"
+  },
+  {
+    "cuenta": "1714176",
+    "plan": "ICO-F19",
+    "fecha": "16/07/2025",
+    "hora": "10:20",
+    "nombre": "MENDOZA LOPEZ ISMAEL"
+  },
+  {
+    "cuenta": "1723476",
     "plan": "ICI-F3",
-    "fecha": "14/07/2025",
-    "hora": "17:20",
-    "nombre": "GOMEZ CONSTANTINO CRISTIAN EMMANUEL"
+    "fecha": "16/07/2025",
+    "hora": "10:20",
+    "nombre": "GONZALEZ DE LA CRUZ LUIS ANGEL"
   },
   {
-    "cuenta": "2321241",
+    "cuenta": "2472327",
+    "plan": "ISES-F24",
+    "fecha": "16/07/2025",
+    "hora": "10:20",
+    "nombre": "CARBAJAL MONROY MARIO DANIEL"
+  },
+  {
+    "cuenta": "2421220",
+    "plan": "IEL-F19",
+    "fecha": "16/07/2025",
+    "hora": "10:20",
+    "nombre": "JIMENEZ FERRER GABRIEL"
+  },
+  {
+    "cuenta": "1610134",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "10:20",
+    "nombre": "CAMACHO VARA JOSE LUIS"
+  },
+  {
+    "cuenta": "1710245",
     "plan": "ISES-F3",
-    "fecha": "14/07/2025",
-    "hora": "17:20",
-    "nombre": "VEGA VELAZQUEZ ERICK ANTONIO"
+    "fecha": "16/07/2025",
+    "hora": "10:20",
+    "nombre": "ESPINOSA DE LOS MONTEROS CASTAÑEDA SERGIO ANDONI"
   },
   {
-    "cuenta": "2220001",
+    "cuenta": "2520003",
     "plan": "ICO-F19",
-    "fecha": "14/07/2025",
-    "hora": "17:20",
-    "nombre": "ARRIOJA APIPILHUAZCO MARIA DANIELA"
+    "fecha": "16/07/2025",
+    "hora": "10:20",
+    "nombre": "JOSE CASAS RICARDO"
   },
   {
-    "cuenta": "1511808",
-    "plan": "IME-F3",
-    "fecha": "14/07/2025",
-    "hora": "17:20",
-    "nombre": "LOPEZ CAMACHO DANIEL"
+    "cuenta": "1920064",
+    "plan": "IEL-F3",
+    "fecha": "16/07/2025",
+    "hora": "10:20",
+    "nombre": "OLVERA GARCIA PABLO JOSUE"
   },
   {
-    "cuenta": "1745310",
+    "cuenta": "2520051",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "10:20",
+    "nombre": "SANCHEZ NAVARRETE URIEL"
+  },
+  {
+    "cuenta": "2421178",
     "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "17:20",
-    "nombre": "FLORES RETANA DAVID ENRIQUE"
+    "fecha": "16/07/2025",
+    "hora": "11:20",
+    "nombre": "SANCHEZ GOMEZ JUAN JAVIER"
   },
   {
-    "cuenta": "1820049",
-    "plan": "IME-F3",
-    "fecha": "14/07/2025",
-    "hora": "17:20",
-    "nombre": "REYES GALLEGOS MARIO IRVING"
-  },
-  {
-    "cuenta": "2115276",
-    "plan": "IEL-F19",
-    "fecha": "14/07/2025",
-    "hora": "17:20",
-    "nombre": "VASQUEZ GOMEZ URIEL"
-  },
-  {
-    "cuenta": "2114710",
+    "cuenta": "2421259",
     "plan": "ISES-F24",
-    "fecha": "14/07/2025",
-    "hora": "17:20",
-    "nombre": "GAMBOA GONZALEZ CARLOS EMMANUEL"
+    "fecha": "16/07/2025",
+    "hora": "11:20",
+    "nombre": "LIRA BOTELLO ANGEL URIEL"
   },
   {
-    "cuenta": "1514313",
-    "plan": "IME-F3",
-    "fecha": "14/07/2025",
-    "hora": "17:20",
-    "nombre": "GOMEZ RAMIREZ ERICK BRANDON"
-  },
-  {
-    "cuenta": "1113357",
-    "plan": "ICI-F3",
-    "fecha": "14/07/2025",
-    "hora": "17:20",
-    "nombre": "SOTO VEGA ANDREA"
-  },
-  {
-    "cuenta": "2221178",
+    "cuenta": "1413453",
     "plan": "ICI-F19",
-    "fecha": "14/07/2025",
-    "hora": "17:20",
-    "nombre": "MARTINEZ RIOS MARCO ANTONIO"
+    "fecha": "16/07/2025",
+    "hora": "11:20",
+    "nombre": "PEREZ GONZALEZ AXEL CARLOS"
   },
   {
-    "cuenta": "1720064",
+    "cuenta": "1712644",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "11:20",
+    "nombre": "NUÑEZ REBOLLO MAXIMILIANO"
+  },
+  {
+    "cuenta": "1711826",
+    "plan": "ISES-F3",
+    "fecha": "16/07/2025",
+    "hora": "11:20",
+    "nombre": "SANCHEZ MORENO BRAYAN ESTANISLAO"
+  },
+  {
+    "cuenta": "2421072",
+    "plan": "ICO-F19",
+    "fecha": "16/07/2025",
+    "hora": "11:20",
+    "nombre": "PEREZ HERNANDEZ BRUNO"
+  },
+  {
+    "cuenta": "2020093",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "11:20",
+    "nombre": "LAURENT VIEYRA JOSE LUIS"
+  },
+  {
+    "cuenta": "2321124",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "11:20",
+    "nombre": "VILLALVA ANTOLIN JUAN PABLO"
+  },
+  {
+    "cuenta": "2322588",
+    "plan": "IIA-F24",
+    "fecha": "16/07/2025",
+    "hora": "11:20",
+    "nombre": "REBOLLAR RUIZ LUIS FERNANDO"
+  },
+  {
+    "cuenta": "1742707",
+    "plan": "ICO-F19",
+    "fecha": "16/07/2025",
+    "hora": "11:20",
+    "nombre": "ROJAS PALAFOX JAZMIN ALEJANDRA"
+  },
+  {
+    "cuenta": "2020057",
+    "plan": "IEL-F19",
+    "fecha": "16/07/2025",
+    "hora": "11:20",
+    "nombre": "MARTINEZ RODRIGUEZ BRIAN HUGO"
+  },
+  {
+    "cuenta": "2221053",
+    "plan": "ICO-F19",
+    "fecha": "16/07/2025",
+    "hora": "11:20",
+    "nombre": "CASTRO VERGARA ALEXIS"
+  },
+  {
+    "cuenta": "2114951",
+    "plan": "ICO-F19",
+    "fecha": "16/07/2025",
+    "hora": "11:20",
+    "nombre": "MEJIA MARTINEZ RAMON ADAIR"
+  },
+  {
+    "cuenta": "2121312",
+    "plan": "ISES-F3",
+    "fecha": "16/07/2025",
+    "hora": "11:20",
+    "nombre": "OVANDO REYES TOMAS URIEL"
+  },
+  {
+    "cuenta": "2321317",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "11:20",
+    "nombre": "VIDAL LOPEZ OTONIEL"
+  },
+  {
+    "cuenta": "1613816",
+    "plan": "ISES-F3",
+    "fecha": "16/07/2025",
+    "hora": "12:20",
+    "nombre": "CAMPOS GOMEZ JARED JAVIER"
+  },
+  {
+    "cuenta": "2320996",
+    "plan": "ICO-F19",
+    "fecha": "16/07/2025",
+    "hora": "12:20",
+    "nombre": "HERNANDEZ SANDOVAL JOSE FRANCISCO"
+  },
+  {
+    "cuenta": "1914599",
+    "plan": "ISES-F3",
+    "fecha": "16/07/2025",
+    "hora": "12:20",
+    "nombre": "REYES PERDOMO LUIS FERNANDO"
+  },
+  {
+    "cuenta": "2421096",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "12:20",
+    "nombre": "ALVA SALADINO CAROLINA ARISBETH"
+  },
+  {
+    "cuenta": "2010552",
+    "plan": "ICO-F19",
+    "fecha": "16/07/2025",
+    "hora": "12:20",
+    "nombre": "HERNANDEZ COLIN JOSE ARTURO"
+  },
+  {
+    "cuenta": "2018132",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "12:20",
+    "nombre": "HERNANDEZ MATIAS HECTOR EMMANUEL"
+  },
+  {
+    "cuenta": "1712833",
+    "plan": "ICO-F19",
+    "fecha": "16/07/2025",
+    "hora": "12:20",
+    "nombre": "SALGADO MEJIA SANDRA PAOLA"
+  },
+  {
+    "cuenta": "2520017",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "12:20",
+    "nombre": "GARCIA MONTES ALMA LIDIA"
+  },
+  {
+    "cuenta": "2220037",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "12:20",
+    "nombre": "HERNANDEZ APARICIO ANDY"
+  },
+  {
+    "cuenta": "2121356",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "12:20",
+    "nombre": "MARTINEZ GARDUÑO ISABELA"
+  },
+  {
+    "cuenta": "2321280",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "12:20",
+    "nombre": "LADRILLERO QUINTANA EMANUEL URIEL"
+  },
+  {
+    "cuenta": "2320014",
+    "plan": "IEL-F19",
+    "fecha": "16/07/2025",
+    "hora": "12:20",
+    "nombre": "MENDOZA SOLIS YORDI"
+  },
+  {
+    "cuenta": "2114667",
+    "plan": "IEL-F19",
+    "fecha": "16/07/2025",
+    "hora": "12:20",
+    "nombre": "ESPINOZA MALDONADO JORGE EMILIANO"
+  },
+  {
+    "cuenta": "1820012",
+    "plan": "ICO-F3",
+    "fecha": "16/07/2025",
+    "hora": "12:20",
+    "nombre": "REYES ALBARRAN CRISTIAN DEUSDEDIT"
+  },
+  {
+    "cuenta": "1610302",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "12:20",
+    "nombre": "GALLO CEBALLOS JESUS IVAN"
+  },
+  {
+    "cuenta": "1710269",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "13:20",
+    "nombre": "FERNANDEZ MORENO VALERIA JACQUELINE"
+  },
+  {
+    "cuenta": "1740212",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "13:20",
+    "nombre": "MARIN VELAZQUEZ RODOLFO"
+  },
+  {
+    "cuenta": "2114678",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "13:20",
+    "nombre": "ESTRADA VILCHIS GABRIEL"
+  },
+  {
+    "cuenta": "1411770",
+    "plan": "ISES-F3",
+    "fecha": "16/07/2025",
+    "hora": "13:20",
+    "nombre": "ROQUE ROMUALDO TONALI ELIEL"
+  },
+  {
+    "cuenta": "2115143",
+    "plan": "IEL-F19",
+    "fecha": "16/07/2025",
+    "hora": "13:20",
+    "nombre": "RODRIGUEZ MARTINEZ WALDEN TANEK"
+  },
+  {
+    "cuenta": "1611395",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "13:20",
+    "nombre": "HEREDIA CALETTE BENITO ABRAHAM"
+  },
+  {
+    "cuenta": "2021157",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "13:20",
+    "nombre": "LOPEZ GRANADOS EMMANUEL ALEJANDRO"
+  },
+  {
+    "cuenta": "2221073",
+    "plan": "ICO-F19",
+    "fecha": "16/07/2025",
+    "hora": "13:20",
+    "nombre": "GOMEZ LOPEZ ANGEL GABRIEL"
+  },
+  {
+    "cuenta": "1660875",
+    "plan": "ISES-F3",
+    "fecha": "16/07/2025",
+    "hora": "13:20",
+    "nombre": "COLINDRES ESTRADA ADRIAN"
+  },
+  {
+    "cuenta": "1743856",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "13:20",
+    "nombre": "VALDES MARTINEZ JESUS"
+  },
+  {
+    "cuenta": "1514379",
+    "plan": "ICI-F3",
+    "fecha": "16/07/2025",
+    "hora": "13:20",
+    "nombre": "IBARRA DOMINGUEZ CHRISTOFER BALAN"
+  },
+  {
+    "cuenta": "2421291",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "13:20",
+    "nombre": "LOPEZ ALCANTARA RAFAEL"
+  },
+  {
+    "cuenta": "2321015",
+    "plan": "ICO-F19",
+    "fecha": "16/07/2025",
+    "hora": "13:20",
+    "nombre": "MONTES FLORES ALDO KALEB"
+  },
+  {
+    "cuenta": "2021013",
+    "plan": "ICO-F19",
+    "fecha": "16/07/2025",
+    "hora": "13:20",
+    "nombre": "RUIZ BERRIOZABAL DIEGO"
+  },
+  {
+    "cuenta": "2520046",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "13:20",
+    "nombre": "GONZALEZ GONZALEZ DAVID ALBERTO"
+  },
+  {
+    "cuenta": "1310050",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "14:20",
+    "nombre": "ARELLANO LARIOS JESUS MANUEL"
+  },
+  {
+    "cuenta": "2321091",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "14:20",
+    "nombre": "OLIVAREZ MARTINEZ CARLOS ARIEL"
+  },
+  {
+    "cuenta": "2520049",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "14:20",
+    "nombre": "HERNANDEZ TORRES JESUS DAVID"
+  },
+  {
+    "cuenta": "2421156",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "14:20",
+    "nombre": "PEÑA OROZCO GUILLERMO SAUL"
+  },
+  {
+    "cuenta": "2421159",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "14:20",
+    "nombre": "PIÑON QUIROZ ALAN EMANUEL"
+  },
+  {
+    "cuenta": "2020957",
+    "plan": "ICO-F19",
+    "fecha": "16/07/2025",
+    "hora": "14:20",
+    "nombre": "CEBALLOS ARRIAGA LUIS ANTONIO"
+  },
+  {
+    "cuenta": "2421123",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "14:20",
+    "nombre": "GOMEZ MONTES MIGUEL ANGEL"
+  },
+  {
+    "cuenta": "1470976",
+    "plan": "ISES-F3",
+    "fecha": "16/07/2025",
+    "hora": "14:20",
+    "nombre": "SILVA GONZALEZ DIEGO ARTURO"
+  },
+  {
+    "cuenta": "2012052",
+    "plan": "ICO-F19",
+    "fecha": "16/07/2025",
+    "hora": "14:20",
+    "nombre": "OLVERA JUAREZ SAMUEL"
+  },
+  {
+    "cuenta": "2321284",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "14:20",
+    "nombre": "LOPEZ CORTEZ BRISA JIMENA"
+  },
+  {
+    "cuenta": "1913770",
+    "plan": "ISES-F3",
+    "fecha": "16/07/2025",
+    "hora": "14:20",
+    "nombre": "RUIZ DIAZ ABDIEL"
+  },
+  {
+    "cuenta": "2421326",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "14:20",
+    "nombre": "SERRANO SANCHEZ MIGUEL ANGEL"
+  },
+  {
+    "cuenta": "2013969",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "14:20",
+    "nombre": "HERNANDEZ HERNANDEZ FRANCO ENRIQUE"
+  },
+  {
+    "cuenta": "2421084",
+    "plan": "ICO-F19",
+    "fecha": "16/07/2025",
+    "hora": "14:20",
+    "nombre": "SALAS SAAVEDRA CRISTOPHER IVAN"
+  },
+  {
+    "cuenta": "2421180",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "14:20",
+    "nombre": "SANCHEZ ORTIZ CRISTIAN MARTIN"
+  },
+  {
+    "cuenta": "2421115",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "15:20",
+    "nombre": "FLORES ALVARADO JOSUE GUSTAVO"
+  },
+  {
+    "cuenta": "2421351",
+    "plan": "IIA-F24",
+    "fecha": "16/07/2025",
+    "hora": "15:20",
+    "nombre": "MORENO GARCES GIOVANNI ISRAEL"
+  },
+  {
+    "cuenta": "2321270",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "15:20",
+    "nombre": "GARCIA GONZALEZ EDUARDO"
+  },
+  {
+    "cuenta": "2370554",
+    "plan": "ICO-F19",
+    "fecha": "16/07/2025",
+    "hora": "15:20",
+    "nombre": "CHAVEZ SALCEDO OLIVER"
+  },
+  {
+    "cuenta": "2421216",
+    "plan": "IEL-F19",
+    "fecha": "16/07/2025",
+    "hora": "15:20",
+    "nombre": "HERNANDEZ SOLIS DAVID"
+  },
+  {
+    "cuenta": "1612700",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "15:20",
+    "nombre": "ORTEGA RIVERA JESUS EMMANUEL"
+  },
+  {
+    "cuenta": "1813856",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "15:20",
+    "nombre": "CARBAJAL ALBARRAN JUAN DIEGO"
+  },
+  {
+    "cuenta": "1913648",
+    "plan": "ISES-F24",
+    "fecha": "16/07/2025",
+    "hora": "15:20",
+    "nombre": "NAVA GARDUÑO EDWIN"
+  },
+  {
+    "cuenta": "1845792",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "15:20",
+    "nombre": "MERCADO BARCENAS MONSERRAT"
+  },
+  {
+    "cuenta": "2110628",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "15:20",
+    "nombre": "LOPEZ BERNAL RAFAEL SANTIAGO"
+  },
+  {
+    "cuenta": "1913951",
+    "plan": "ISES-F24",
+    "fecha": "16/07/2025",
+    "hora": "15:20",
+    "nombre": "AVILA GUTIERREZ BETT BERENICE"
+  },
+  {
+    "cuenta": "1943446",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "15:20",
+    "nombre": "HERNANDEZ ARAUJO ALAN ALEXIS"
+  },
+  {
+    "cuenta": "1821242",
     "plan": "IME-F3",
-    "fecha": "14/07/2025",
+    "fecha": "16/07/2025",
+    "hora": "15:20",
+    "nombre": "GARCIA SANTIAGO PRISCILA"
+  },
+  {
+    "cuenta": "1610114",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "15:20",
+    "nombre": "BERRA HERNANDEZ ANTONIO"
+  },
+  {
+    "cuenta": "2121341",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "15:20",
+    "nombre": "GALLARDO ACUÑA JARLEY ANTONIO"
+  },
+  {
+    "cuenta": "1710895",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "16:20",
+    "nombre": "TORRES ENRIQUEZ HUGO"
+  },
+  {
+    "cuenta": "1610868",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "16:20",
+    "nombre": "SILVA MORENO ANDREA"
+  },
+  {
+    "cuenta": "2112939",
+    "plan": "ISES-F24",
+    "fecha": "16/07/2025",
+    "hora": "16:20",
+    "nombre": "GABINO JARAMILLO CESAR"
+  },
+  {
+    "cuenta": "1911832",
+    "plan": "IEL-F19",
+    "fecha": "16/07/2025",
+    "hora": "16:20",
+    "nombre": "MORENO DOMINGUEZ EMMANUEL"
+  },
+  {
+    "cuenta": "2221152",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "16:20",
+    "nombre": "FLORES HERNANDEZ HECTOR"
+  },
+  {
+    "cuenta": "1972624",
+    "plan": "ICI-F3",
+    "fecha": "16/07/2025",
+    "hora": "16:20",
+    "nombre": "RODRIGUEZ PERALTA KARLA REGINA"
+  },
+  {
+    "cuenta": "2321159",
+    "plan": "IEL-F19",
+    "fecha": "16/07/2025",
+    "hora": "16:20",
+    "nombre": "HERNANDEZ GARCIA ANGEL OMAR"
+  },
+  {
+    "cuenta": "2012635",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "16:20",
+    "nombre": "DE LA CRUZ MARTINEZ DINA"
+  },
+  {
+    "cuenta": "2321278",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "16:20",
+    "nombre": "GUERRERO CASIANO TOMAS"
+  },
+  {
+    "cuenta": "2015072",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "16:20",
+    "nombre": "NAVARRO BOIZO XIMENA"
+  },
+  {
+    "cuenta": "1544493",
+    "plan": "IME-F3",
+    "fecha": "16/07/2025",
+    "hora": "16:20",
+    "nombre": "DE JESUS NAVA ANETTE MISHEL"
+  },
+  {
+    "cuenta": "2121367",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "16:20",
+    "nombre": "SANCHEZ SILVA ABIGAIL"
+  },
+  {
+    "cuenta": "1310219",
+    "plan": "ISES-F3",
+    "fecha": "16/07/2025",
+    "hora": "16:20",
+    "nombre": "CASTILLO FLORES OSWALDO"
+  },
+  {
+    "cuenta": "2520027",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "16:20",
+    "nombre": "PICHARDO ENRIQUEZ GUSTAVO"
+  },
+  {
+    "cuenta": "2221188",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "16:20",
+    "nombre": "PALMA REYES YAHIR MISAEL"
+  },
+  {
+    "cuenta": "2320010",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
     "hora": "17:20",
-    "nombre": "CASTORENO ROJAS ELLIOTT ALEXIS"
+    "nombre": "MARTINEZ ZAMUDIO MIGUEL ANGEL"
+  },
+  {
+    "cuenta": "1720002",
+    "plan": "ICI-F3",
+    "fecha": "16/07/2025",
+    "hora": "17:20",
+    "nombre": "AGUILAR QUIROZ ULISES EMMANUEL"
+  },
+  {
+    "cuenta": "1513049",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "17:20",
+    "nombre": "BALDOVINO OLIVOS AXEL URIEL"
+  },
+  {
+    "cuenta": "2221282",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "17:20",
+    "nombre": "BUENO JIMENEZ RAUL"
+  },
+  {
+    "cuenta": "2421136",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "17:20",
+    "nombre": "LOYDA GARFIAS LIZ ARLETTE"
+  },
+  {
+    "cuenta": "2420008",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "17:20",
+    "nombre": "MEJIA ALONSO DEISY ESTEFANY"
+  },
+  {
+    "cuenta": "2140402",
+    "plan": "IIA-F24",
+    "fecha": "16/07/2025",
+    "hora": "17:20",
+    "nombre": "GONZALEZ RAMIREZ GENARO EMANUEL"
+  },
+  {
+    "cuenta": "2121310",
+    "plan": "ISES-F3",
+    "fecha": "16/07/2025",
+    "hora": "17:20",
+    "nombre": "MONTOYA RAMIREZ DIANA"
+  },
+  {
+    "cuenta": "2021045",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "17:20",
+    "nombre": "GARCIA OLIVO ALFREDO"
+  },
+  {
+    "cuenta": "1821197",
+    "plan": "ICI-F3",
+    "fecha": "16/07/2025",
+    "hora": "17:20",
+    "nombre": "RAMOS GOMEZ SANDRA"
+  },
+  {
+    "cuenta": "2321147",
+    "plan": "IEL-F19",
+    "fecha": "16/07/2025",
+    "hora": "17:20",
+    "nombre": "GALICIA VILLANUEVA JEZRAEL"
+  },
+  {
+    "cuenta": "1111062",
+    "plan": "IEL-F19",
+    "fecha": "16/07/2025",
+    "hora": "17:20",
+    "nombre": "BOLAÑOS CASTAÑEDA RAMSES"
+  },
+  {
+    "cuenta": "2021055",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "17:20",
+    "nombre": "MEJIA CRUZ MIGUEL ANGEL"
+  },
+  {
+    "cuenta": "1642914",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "17:20",
+    "nombre": "GONZALEZ CORREA CAROLINA ISABEL"
+  },
+  {
+    "cuenta": "2421183",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "17:20",
+    "nombre": "SUAREZ VILCHIS MAURICIO"
+  },
+  {
+    "cuenta": "2321095",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "18:20",
+    "nombre": "PEREZ GARCIA DIEGO RAMSES"
+  },
+  {
+    "cuenta": "2520021",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "18:20",
+    "nombre": "JUAREZ RODRIGUEZ SIXTO ENRIQUE"
+  },
+  {
+    "cuenta": "2015334",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "18:20",
+    "nombre": "TORRES ENRIQUEZ LUIS ALBERTO"
+  },
+  {
+    "cuenta": "2120019",
+    "plan": "ICO-F19",
+    "fecha": "16/07/2025",
+    "hora": "18:20",
+    "nombre": "REZA CAMPOS FERNANDO BRYAN"
+  },
+  {
+    "cuenta": "2021051",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "18:20",
+    "nombre": "MARTINEZ DAMIAN JESUS ARMANDO"
+  },
+  {
+    "cuenta": "2121436",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "18:20",
+    "nombre": "SANTILLAN GOMEZ ALEJANDRO"
+  },
+  {
+    "cuenta": "2120096",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "18:20",
+    "nombre": "GUADARRAMA MEJIA FERNANDA"
+  },
+  {
+    "cuenta": "2024073",
+    "plan": "ICO-F19",
+    "fecha": "16/07/2025",
+    "hora": "18:20",
+    "nombre": "LOPEZ GONZALEZ SALOMON"
+  },
+  {
+    "cuenta": "2221183",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "18:20",
+    "nombre": "MONROY VARGAS JORGE ALBERTO"
+  },
+  {
+    "cuenta": "2018471",
+    "plan": "ISES-F24",
+    "fecha": "16/07/2025",
+    "hora": "18:20",
+    "nombre": "VIVES BARRIOS ALDO IVAN"
+  },
+  {
+    "cuenta": "2012405",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "18:20",
+    "nombre": "VIDAL ROMERO VICTOR ANDRICK"
+  },
+  {
+    "cuenta": "1811017",
+    "plan": "IEL-F19",
+    "fecha": "16/07/2025",
+    "hora": "18:20",
+    "nombre": "VALLE GARCIA ANDREA JIMENA"
+  },
+  {
+    "cuenta": "2472310",
+    "plan": "IEL-F19",
+    "fecha": "16/07/2025",
+    "hora": "18:20",
+    "nombre": "AMADOR RIVERA JONATHAN ISRAEL"
+  },
+  {
+    "cuenta": "2111841",
+    "plan": "ICI-F19",
+    "fecha": "16/07/2025",
+    "hora": "18:20",
+    "nombre": "GUTIERREZ GALDAMEZ ANGEL SEBASTIAN"
+  },
+  {
+    "cuenta": "1740185",
+    "plan": "IME-F19",
+    "fecha": "16/07/2025",
+    "hora": "18:20",
+    "nombre": "HERNANDEZ GARCIA RAFAEL"
+  },
+  {
+    "cuenta": "2321058",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "08:20",
+    "nombre": "ESCOBAR TORRES JOSE ALBERTO"
+  },
+  {
+    "cuenta": "1813982",
+    "plan": "ICO-F19",
+    "fecha": "17/07/2025",
+    "hora": "08:20",
+    "nombre": "ESTRADA MARTINEZ ANGEL ARTURO"
+  },
+  {
+    "cuenta": "2010821",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "08:20",
+    "nombre": "NAVA GONZALEZ JORGE"
+  },
+  {
+    "cuenta": "2120045",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "08:20",
+    "nombre": "MARTINEZ SALAZAR VALERIA"
+  },
+  {
+    "cuenta": "2321085",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "08:20",
+    "nombre": "MARTINEZ JIMENEZ PABLO"
+  },
+  {
+    "cuenta": "2520030",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "08:20",
+    "nombre": "VALENCIA SANCHEZ JESUS GUADALUPE"
+  },
+  {
+    "cuenta": "2520023",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "08:20",
+    "nombre": "MONTIEL JAIMES BRUNO ALEXIS"
+  },
+  {
+    "cuenta": "2115172",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "08:20",
+    "nombre": "ROQUE MIRANDA CHRISTIAN EMMANUEL"
+  },
+  {
+    "cuenta": "2111119",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "08:20",
+    "nombre": "VALDEZ MEJIA DIEGO"
+  },
+  {
+    "cuenta": "2121204",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "08:20",
+    "nombre": "CASTAÑEDA MONTES DE OCA ALAN JAIR"
+  },
+  {
+    "cuenta": "2472340",
+    "plan": "ISES-F24",
+    "fecha": "17/07/2025",
+    "hora": "08:20",
+    "nombre": "VENTA CAMACHO JONATHAN ABRAHAM"
+  },
+  {
+    "cuenta": "1723570",
+    "plan": "IME-F3",
+    "fecha": "17/07/2025",
+    "hora": "08:20",
+    "nombre": "VELAZQUEZ CAMACHO LUIS GUSTAVO"
+  },
+  {
+    "cuenta": "2520009",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "08:20",
+    "nombre": "CRUZ RAMIREZ EZLIAVIZAI"
+  },
+  {
+    "cuenta": "2221110",
+    "plan": "ICO-F19",
+    "fecha": "17/07/2025",
+    "hora": "08:20",
+    "nombre": "QUIROZ CASTILLO OSVALDO JAVIER"
+  },
+  {
+    "cuenta": "1921047",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "08:20",
+    "nombre": "RODRIGUEZ HERMIDA CESAR ALBERTO"
+  },
+  {
+    "cuenta": "2121221",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "09:20",
+    "nombre": "HERNANDEZ ZAVALA DIEGO ARMANDO"
+  },
+  {
+    "cuenta": "2013856",
+    "plan": "ISES-F24",
+    "fecha": "17/07/2025",
+    "hora": "09:20",
+    "nombre": "FONSECA SALDAÑA CHRISTIAN ALEJANDRO"
+  },
+  {
+    "cuenta": "2020046",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "09:20",
+    "nombre": "RUIZ GONZALEZ JENNIFER"
+  },
+  {
+    "cuenta": "2320019",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "09:20",
+    "nombre": "LOPEZ ROMERO DANIEL"
+  },
+  {
+    "cuenta": "1810175",
+    "plan": "ICO-F19",
+    "fecha": "17/07/2025",
+    "hora": "09:20",
+    "nombre": "CHAVEZ VAZQUEZ ROGELIO"
+  },
+  {
+    "cuenta": "1613961",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "09:20",
+    "nombre": "GALICIA PALACIOS KARLA PAULINA"
+  },
+  {
+    "cuenta": "1712396",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "09:20",
+    "nombre": "HERNANDEZ GONZALEZ JOSE MIGUEL"
+  },
+  {
+    "cuenta": "2121338",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "09:20",
+    "nombre": "ESCAMILLA VARGAS JUAN CARLOS"
+  },
+  {
+    "cuenta": "2321129",
+    "plan": "IEL-F19",
+    "fecha": "17/07/2025",
+    "hora": "09:20",
+    "nombre": "ALVAREZ BARAJAS DIEGO JOSE MARIA"
+  },
+  {
+    "cuenta": "2120043",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "09:20",
+    "nombre": "MARIN GONZALEZ KAREN LIZETH"
+  },
+  {
+    "cuenta": "2321227",
+    "plan": "ISES-F3",
+    "fecha": "17/07/2025",
+    "hora": "09:20",
+    "nombre": "MONDRAGON OCAMPO VICTOR MANUEL"
+  },
+  {
+    "cuenta": "2321064",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "09:20",
+    "nombre": "GARCIA HERNANDEZ CESAR ALEXIS"
+  },
+  {
+    "cuenta": "1915412",
+    "plan": "ISES-F24",
+    "fecha": "17/07/2025",
+    "hora": "09:20",
+    "nombre": "RIVERA GOMEZ NICOLAS"
+  },
+  {
+    "cuenta": "1813780",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "09:20",
+    "nombre": "AMADO LOPEZ DELFINO EDUARDO"
+  },
+  {
+    "cuenta": "1510547",
+    "plan": "ICO-F19",
+    "fecha": "17/07/2025",
+    "hora": "09:20",
+    "nombre": "GALLEGOS TORRES JAVIER ALONSO"
+  },
+  {
+    "cuenta": "1546874",
+    "plan": "IME-F3",
+    "fecha": "17/07/2025",
+    "hora": "10:20",
+    "nombre": "ROMERO ARENAS MAYRA GUADALUPE"
+  },
+  {
+    "cuenta": "2121213",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "10:20",
+    "nombre": "ENRIQUEZ SANCHEZ JEHIELI ROCIO"
+  },
+  {
+    "cuenta": "2472426",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "10:20",
+    "nombre": "OCAMPO BASTIDA ERIK GAEL"
+  },
+  {
+    "cuenta": "2111228",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "10:20",
+    "nombre": "CUREÑO ESTRELLA DANIEL"
+  },
+  {
+    "cuenta": "2121361",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "10:20",
+    "nombre": "PACHECO PLANCARTE ZAIR ARTURO"
+  },
+  {
+    "cuenta": "1312658",
+    "plan": "ICO-F3",
+    "fecha": "17/07/2025",
+    "hora": "10:20",
+    "nombre": "QUIROZ SALINAS MABELYN NATALY"
+  },
+  {
+    "cuenta": "1913091",
+    "plan": "ICO-F19",
+    "fecha": "17/07/2025",
+    "hora": "10:20",
+    "nombre": "ROJAS VICTORIA SAUL"
+  },
+  {
+    "cuenta": "1810337",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "10:20",
+    "nombre": "GARCIA IBAÑEZ CESAR"
+  },
+  {
+    "cuenta": "2421250",
+    "plan": "ISES-F24",
+    "fecha": "17/07/2025",
+    "hora": "10:20",
+    "nombre": "BRAVO DIAZ EMIR"
+  },
+  {
+    "cuenta": "2321310",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "10:20",
+    "nombre": "RUIZ CASTILLO SERGIO"
+  },
+  {
+    "cuenta": "2220004",
+    "plan": "ICO-F19",
+    "fecha": "17/07/2025",
+    "hora": "10:20",
+    "nombre": "BERMUDEZ PATRICIO IVAN"
+  },
+  {
+    "cuenta": "2221199",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "10:20",
+    "nombre": "SANCHEZ JUAREZ BRENDA RUBI"
+  },
+  {
+    "cuenta": "1612257",
+    "plan": "IEL-F19",
+    "fecha": "17/07/2025",
+    "hora": "10:20",
+    "nombre": "ESTRADA GARCIA ERICK DANIEL"
+  },
+  {
+    "cuenta": "2420017",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "10:20",
+    "nombre": "COYOTE CARREÑO AXEL"
+  },
+  {
+    "cuenta": "1541153",
+    "plan": "ICI-F3",
+    "fecha": "17/07/2025",
+    "hora": "10:20",
+    "nombre": "SALGUERO MORALES GUSTAVO ADRIAN"
+  },
+  {
+    "cuenta": "1713700",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "11:20",
+    "nombre": "ALCANTARA MERELES ALEJANDRO"
+  },
+  {
+    "cuenta": "2472314",
+    "plan": "IEL-F19",
+    "fecha": "17/07/2025",
+    "hora": "11:20",
+    "nombre": "GUTIERREZ CRUZ DIEGO ANDRES"
+  },
+  {
+    "cuenta": "2221262",
+    "plan": "ISES-F3",
+    "fecha": "17/07/2025",
+    "hora": "11:20",
+    "nombre": "HERRERA TREJO ABRAHAM ISAAC"
+  },
+  {
+    "cuenta": "2021090",
+    "plan": "IEL-F19",
+    "fecha": "17/07/2025",
+    "hora": "11:20",
+    "nombre": "NAVA DELGADO LUIS DANIEL"
+  },
+  {
+    "cuenta": "1743769",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "11:20",
+    "nombre": "TRISTE RAMIREZ KIMBERLY"
+  },
+  {
+    "cuenta": "2114455",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "11:20",
+    "nombre": "ARELLANO TREJO JOSHUA"
+  },
+  {
+    "cuenta": "2221134",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "11:20",
+    "nombre": "ARRIAGA GOMEZ LUIS ANGEL"
+  },
+  {
+    "cuenta": "2111688",
+    "plan": "IEL-F19",
+    "fecha": "17/07/2025",
+    "hora": "11:20",
+    "nombre": "GALVAN SANABRIA EDER ALEXANDER"
+  },
+  {
+    "cuenta": "1312934",
+    "plan": "ICO-F3",
+    "fecha": "17/07/2025",
+    "hora": "11:20",
+    "nombre": "VARGAS VILCHIS VICTOR"
+  },
+  {
+    "cuenta": "1612143",
+    "plan": "ISES-F3",
+    "fecha": "17/07/2025",
+    "hora": "11:20",
+    "nombre": "CASTRO PEDRAZA ALFREDO"
+  },
+  {
+    "cuenta": "2472323",
+    "plan": "ISES-F24",
+    "fecha": "17/07/2025",
+    "hora": "11:20",
+    "nombre": "ARRIAGA LOPEZ JUAN JOSE"
+  },
+  {
+    "cuenta": "1811122",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "11:20",
+    "nombre": "ACEVEDO GUTIERREZ JONATAN"
+  },
+  {
+    "cuenta": "2321246",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "11:20",
+    "nombre": "ABUNDIS FRANCO ANGEL JALIL"
+  },
+  {
+    "cuenta": "1920070",
+    "plan": "ISES-F3",
+    "fecha": "17/07/2025",
+    "hora": "11:20",
+    "nombre": "CORONA MANJARREZ ERIKA LIZETH"
+  },
+  {
+    "cuenta": "2011583",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "11:20",
+    "nombre": "FLORES DURAN CHRISTIAN"
+  },
+  {
+    "cuenta": "2220025",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "12:20",
+    "nombre": "VALENZUELA GARCIA SAMARA"
+  },
+  {
+    "cuenta": "2472329",
+    "plan": "ISES-F24",
+    "fecha": "17/07/2025",
+    "hora": "12:20",
+    "nombre": "CRISTINO DE JESUS EDUARDO"
+  },
+  {
+    "cuenta": "2221159",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "12:20",
+    "nombre": "GONZAGA VILCHIS CARLOS ANTONIO"
+  },
+  {
+    "cuenta": "2020015",
+    "plan": "ICO-F19",
+    "fecha": "17/07/2025",
+    "hora": "12:20",
+    "nombre": "LOPEZ GONZALEZ JESUS"
+  },
+  {
+    "cuenta": "2220023",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "12:20",
+    "nombre": "ORTEGA PERALTA YAHIR"
+  },
+  {
+    "cuenta": "1917643",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "12:20",
+    "nombre": "RUIZ MORENO JAIME EDUARDO"
+  },
+  {
+    "cuenta": "1640577",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "12:20",
+    "nombre": "HERNANDEZ BAUTISTA ALFONSO DE JESUS"
+  },
+  {
+    "cuenta": "1817070",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "12:20",
+    "nombre": "ORTA CRUZ JOSE DAVID"
+  },
+  {
+    "cuenta": "2010868",
+    "plan": "ISES-F3",
+    "fecha": "17/07/2025",
+    "hora": "12:20",
+    "nombre": "PAREDES MEJIA EMILIO EMMANUEL"
+  },
+  {
+    "cuenta": "2221587",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "12:20",
+    "nombre": "MORA DE JESUS DANIEL"
+  },
+  {
+    "cuenta": "1611458",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "12:20",
+    "nombre": "JERONIMO GUERRERO AKIN"
+  },
+  {
+    "cuenta": "2110081",
+    "plan": "IEL-F19",
+    "fecha": "17/07/2025",
+    "hora": "12:20",
+    "nombre": "AREVALO HERNANDEZ MARIA FERNANDA"
+  },
+  {
+    "cuenta": "2112434",
+    "plan": "IEL-F19",
+    "fecha": "17/07/2025",
+    "hora": "12:20",
+    "nombre": "SANCHEZ PEREZ JORGE ALBERTO"
+  },
+  {
+    "cuenta": "2011476",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "12:20",
+    "nombre": "CRISANTOS JIMENEZ JUAN PABLO"
+  },
+  {
+    "cuenta": "2221308",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "12:20",
+    "nombre": "GUTIERREZ GONZALEZ CESAR ADRIAN"
+  },
+  {
+    "cuenta": "2320968",
+    "plan": "ICO-F19",
+    "fecha": "17/07/2025",
+    "hora": "13:20",
+    "nombre": "CARMONA COLIN JOSE FERNANDO"
+  },
+  {
+    "cuenta": "1413993",
+    "plan": "ICI-F3",
+    "fecha": "17/07/2025",
+    "hora": "13:20",
+    "nombre": "HILARIO CRUZ ISMAEL"
+  },
+  {
+    "cuenta": "2221139",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "13:20",
+    "nombre": "BARTOLO PUERTA JOSE MIGUEL"
+  },
+  {
+    "cuenta": "2011304",
+    "plan": "ICO-F19",
+    "fecha": "17/07/2025",
+    "hora": "13:20",
+    "nombre": "ALONSO MONTAÑO LEONARDO"
+  },
+  {
+    "cuenta": "1921100",
+    "plan": "ISES-F3",
+    "fecha": "17/07/2025",
+    "hora": "13:20",
+    "nombre": "ARZATE CARRILLO JESUS RENE"
+  },
+  {
+    "cuenta": "1911417",
+    "plan": "ICO-F19",
+    "fecha": "17/07/2025",
+    "hora": "13:20",
+    "nombre": "DOBLADO AYALA ADOLFO"
+  },
+  {
+    "cuenta": "2472335",
+    "plan": "ISES-F24",
+    "fecha": "17/07/2025",
+    "hora": "13:20",
+    "nombre": "GONZALEZ ROSALES GAMALIEL"
+  },
+  {
+    "cuenta": "2321126",
+    "plan": "IEL-F19",
+    "fecha": "17/07/2025",
+    "hora": "13:20",
+    "nombre": "ACUÑA MARTINEZ JUAN CARLOS"
+  },
+  {
+    "cuenta": "2013212",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "13:20",
+    "nombre": "NIETO URBINA BRENDA"
+  },
+  {
+    "cuenta": "1914199",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "13:20",
+    "nombre": "GARDUÑO CIRIACO LUIS ALEXIS"
+  },
+  {
+    "cuenta": "1912866",
+    "plan": "ISES-F3",
+    "fecha": "17/07/2025",
+    "hora": "13:20",
+    "nombre": "MAYO MARTINEZ JOSE ARMANDO"
+  },
+  {
+    "cuenta": "2321097",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "13:20",
+    "nombre": "PONCE SALAZAR SAUL"
+  },
+  {
+    "cuenta": "2520050",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "13:20",
+    "nombre": "MERCADO MOLINA JESUS FELIPE"
+  },
+  {
+    "cuenta": "2141818",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "13:20",
+    "nombre": "POSADAS VALVERDE MELANIE JETZIBE"
+  },
+  {
+    "cuenta": "2015797",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "13:20",
+    "nombre": "MARIN FUENTES TOHTLI ASAEL"
+  },
+  {
+    "cuenta": "2320972",
+    "plan": "ICO-F19",
+    "fecha": "17/07/2025",
+    "hora": "14:20",
+    "nombre": "CORANGUEZ OSORIO JOSE HIPOLITO"
+  },
+  {
+    "cuenta": "2021159",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "14:20",
+    "nombre": "LOPEZ ROGEL MANUEL MAX"
+  },
+  {
+    "cuenta": "2472324",
+    "plan": "ISES-F24",
+    "fecha": "17/07/2025",
+    "hora": "14:20",
+    "nombre": "ARZATE DEL VILLAR CARLOS ALBERTO"
+  },
+  {
+    "cuenta": "2221350",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "14:20",
+    "nombre": "SOTO MARCOS DIEGO"
+  },
+  {
+    "cuenta": "1714270",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "14:20",
+    "nombre": "PEREZ DE JESUS ISAAC CUITLAHUAC"
+  },
+  {
+    "cuenta": "2111953",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "14:20",
+    "nombre": "LIMON MARIN JONATHAN"
+  },
+  {
+    "cuenta": "2520029",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "14:20",
+    "nombre": "RIVERA ESTRADA DIANA"
+  },
+  {
+    "cuenta": "1711730",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "14:20",
+    "nombre": "REBOLLO MONTIEL ANTONIO"
+  },
+  {
+    "cuenta": "1510939",
+    "plan": "IME-F3",
+    "fecha": "17/07/2025",
+    "hora": "14:20",
+    "nombre": "SANCHEZ VAZQUEZ MARIANA"
+  },
+  {
+    "cuenta": "1921062",
+    "plan": "IEL-F19",
+    "fecha": "17/07/2025",
+    "hora": "14:20",
+    "nombre": "GALLARDO HERNANDEZ LUIS GUILLERMO"
+  },
+  {
+    "cuenta": "1743591",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "14:20",
+    "nombre": "CARDOSO MOLINA AXEL ALEXANDER"
+  },
+  {
+    "cuenta": "2520011",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "14:20",
+    "nombre": "DE JESUS DE JESUS KATIA"
+  },
+  {
+    "cuenta": "2421212",
+    "plan": "IEL-F19",
+    "fecha": "17/07/2025",
+    "hora": "14:20",
+    "nombre": "GUZMAN FLORES CHRISTIAN"
+  },
+  {
+    "cuenta": "2221047",
+    "plan": "ICO-F19",
+    "fecha": "17/07/2025",
+    "hora": "14:20",
+    "nombre": "ALBARRAN HERRERA ENRIQUE"
+  },
+  {
+    "cuenta": "1612636",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "14:20",
+    "nombre": "MONTAÑO DE LA VEGA DIEGO"
+  },
+  {
+    "cuenta": "1512918",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "15:20",
+    "nombre": "HERNANDEZ TERCERO IBRAINN"
+  },
+  {
+    "cuenta": "1813348",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "15:20",
+    "nombre": "GUADARRAMA ESCOBAR JUAN OCTAVIO"
+  },
+  {
+    "cuenta": "2220020",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "15:20",
+    "nombre": "IGLESIAS RIVERA GERARDO"
+  },
+  {
+    "cuenta": "1645931",
+    "plan": "ICO-F19",
+    "fecha": "17/07/2025",
+    "hora": "15:20",
+    "nombre": "DIAZ CRUZ DANTE ARAMIS"
+  },
+  {
+    "cuenta": "2520028",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "15:20",
+    "nombre": "REYES RODRIGUEZ BRANDON JAVIER"
+  },
+  {
+    "cuenta": "2121247",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "15:20",
+    "nombre": "ROJAS PERDOMO JONATHAN"
+  },
+  {
+    "cuenta": "2111738",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "15:20",
+    "nombre": "GARCIA SOLIS OVANDO CARLOS EMILIANO"
+  },
+  {
+    "cuenta": "2273187",
+    "plan": "IEL-F19",
+    "fecha": "17/07/2025",
+    "hora": "15:20",
+    "nombre": "MEJIA GARCIA DIEGO AXEL"
+  },
+  {
+    "cuenta": "2221306",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "15:20",
+    "nombre": "GONZALEZ LOPEZ CARLOS"
+  },
+  {
+    "cuenta": "1760051",
+    "plan": "ICI-F3",
+    "fecha": "17/07/2025",
+    "hora": "15:20",
+    "nombre": "NAVARRO CUEVAS DIANA PATRICIA"
+  },
+  {
+    "cuenta": "1611974",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "15:20",
+    "nombre": "VELASCO SANABRIA LEON ALEJANDRO"
+  },
+  {
+    "cuenta": "2011434",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "15:20",
+    "nombre": "CERVANTES CISNEROS DIANA KAREN"
+  },
+  {
+    "cuenta": "1416263",
+    "plan": "ICI-F3",
+    "fecha": "17/07/2025",
+    "hora": "15:20",
+    "nombre": "CANO RIVERA LUIS"
+  },
+  {
+    "cuenta": "2021176",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "15:20",
+    "nombre": "SALAZAR ROMERO MARISOL"
+  },
+  {
+    "cuenta": "2421240",
+    "plan": "IEL-F19",
+    "fecha": "17/07/2025",
+    "hora": "15:20",
+    "nombre": "SEGURA DIAZ EMILY RENATA"
+  },
+  {
+    "cuenta": "2011343",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "16:20",
+    "nombre": "BALBUENA GONZALEZ RAMON"
+  },
+  {
+    "cuenta": "2421242",
+    "plan": "IEL-F19",
+    "fecha": "17/07/2025",
+    "hora": "16:20",
+    "nombre": "SILVA MORALES JULIO CESAR"
+  },
+  {
+    "cuenta": "1013146",
+    "plan": "IEL-F19",
+    "fecha": "17/07/2025",
+    "hora": "16:20",
+    "nombre": "RAMIREZ JIMENEZ SAUL"
+  },
+  {
+    "cuenta": "2121265",
+    "plan": "IEL-F19",
+    "fecha": "17/07/2025",
+    "hora": "16:20",
+    "nombre": "DE JESUS FELIPE ALEXIS"
+  },
+  {
+    "cuenta": "1912178",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "16:20",
+    "nombre": "VAZQUEZ POBLETE OSVALDO"
+  },
+  {
+    "cuenta": "1513226",
+    "plan": "ISES-F3",
+    "fecha": "17/07/2025",
+    "hora": "16:20",
+    "nombre": "ALVAREZ RAMIREZ GERARDO"
+  },
+  {
+    "cuenta": "2421182",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "16:20",
+    "nombre": "SILVAN SANCHEZ DAIANA JOSSELYN"
+  },
+  {
+    "cuenta": "1817146",
+    "plan": "ISES-F3",
+    "fecha": "17/07/2025",
+    "hora": "16:20",
+    "nombre": "BARRIOS HERRERA JOSHUA"
+  },
+  {
+    "cuenta": "1920010",
+    "plan": "ICO-F3",
+    "fecha": "17/07/2025",
+    "hora": "16:20",
+    "nombre": "REYES ESCUTIA LUIS EDUARDO"
+  },
+  {
+    "cuenta": "2160743",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "16:20",
+    "nombre": "DOMINGUEZ HERNANDEZ EDWARD"
+  },
+  {
+    "cuenta": "2072093",
+    "plan": "ISES-F3",
+    "fecha": "17/07/2025",
+    "hora": "16:20",
+    "nombre": "MONDRAGON BAHENA GAEL"
+  },
+  {
+    "cuenta": "1711204",
+    "plan": "IEL-F19",
+    "fecha": "17/07/2025",
+    "hora": "16:20",
+    "nombre": "DIAZ MORENO JOAN"
+  },
+  {
+    "cuenta": "2118123",
+    "plan": "ISES-F24",
+    "fecha": "17/07/2025",
+    "hora": "16:20",
+    "nombre": "RODRIGUEZ ANGELES NAIN EMILIANO"
+  },
+  {
+    "cuenta": "2015885",
+    "plan": "ICO-F19",
+    "fecha": "17/07/2025",
+    "hora": "16:20",
+    "nombre": "NAPOLES CRUZ ARTURO"
+  },
+  {
+    "cuenta": "1943285",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "16:20",
+    "nombre": "VEGA GAYTAN DANIELA ARACELI"
+  },
+  {
+    "cuenta": "1912622",
+    "plan": "IME-F19",
+    "fecha": "17/07/2025",
+    "hora": "17:20",
+    "nombre": "GONZALEZ GONZALEZ DIEGO"
+  },
+  {
+    "cuenta": "2018172",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "17:20",
+    "nombre": "LOVERA AGUILAR YULI VALERIA"
+  },
+  {
+    "cuenta": "1515054",
+    "plan": "ICI-F19",
+    "fecha": "17/07/2025",
+    "hora": "17:20",
+    "nombre": "HERNANDEZ SANCHEZ EMMANUEL"
+  },
+  {
+    "cuenta": "2021110",
+    "plan": "ISES-F3",
+    "fecha": "17/07/2025",
+    "hora": "17:20",
+    "nombre": "GARCIA TEJEDA JOSE EDUARDO"
+  },
+  {
+    "cuenta": "1920014",
+    "plan": "ICI-F3",
+    "fecha": "17/07/2025",
+    "hora": "17:20",
+    "nombre": "BASTIDA SOSA SERGIO"
   }
 ]
