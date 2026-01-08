@@ -1,4 +1,4 @@
-async function consultarInscripcion() {
+function consultarInscripcion() {
 
     const cuenta = document.getElementById("cuenta").value;
 
@@ -9,12 +9,12 @@ async function consultarInscripcion() {
     document.getElementById("hora").innerHTML = "";
 
     // Cargar datos del archivo JSON
-    const response = await fetch("php/consulta.php?cuenta=" + cuenta);
-    const datos = await response.json();
-    //console.log(datos)
+    //const response = await fetch("php/consulta.php?cuenta=" + cuenta);
+    //const datos = await response.json();
+    console.log(datos)
 
     // Buscar el alumno por número de cuenta
-    //const alumno = datos.find((alumno) => alumno.cuenta === cuenta);
+    const alumno = datos.find((alumno) => alumno.cuenta === cuenta);
 
 
     if (datos !== undefined) {
@@ -85,7 +85,7 @@ async function consultarInscripcionJson() {
         if (alumno) {
             // Obtener el nombre completo del plan de estudios
             const nombrePlan = obtenerNombrePlan(alumno.plan);
-
+            //console.log(nombrePlan)
             // Mostrar información del alumno
             const planElement = document.getElementById("plan");
             const h1 = document.createElement("h3");
