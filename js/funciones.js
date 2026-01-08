@@ -65,7 +65,7 @@ function consultarInscripcion() {
 
 async function consultarInscripcionJson() {
     const cuenta = document.getElementById("cuenta").value;
-    //console.log(cuenta)
+    console.log(cuenta)
 
     document.getElementById("plan").innerHTML = "";
     document.getElementById("nombre").innerHTML = "";
