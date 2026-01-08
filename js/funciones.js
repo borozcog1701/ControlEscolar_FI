@@ -65,7 +65,7 @@ function consultarInscripcion() {
 
 async function consultarInscripcionJson() {
     const cuenta = document.getElementById("cuenta").value;
-    console.log(cuenta)
+    //console.log(cuenta)
 
     document.getElementById("plan").innerHTML = "";
     document.getElementById("nombre").innerHTML = "";
@@ -80,7 +80,7 @@ async function consultarInscripcionJson() {
         //console.log(datos)
         // Buscar el alumno por número de cuenta
         const alumno = datos.find((alumno) => alumno.cuenta === cuenta);
-        console.log(alumno)
+        //console.log(alumno)
 
         if (alumno) {
             // Obtener el nombre completo del plan de estudios
