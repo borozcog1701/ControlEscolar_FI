@@ -35,16 +35,22 @@ button:hover {
 }
 .container {
   width: 90%;
-  height: auto;
+  height: 95dvh;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
+
+@media (max-width: 1200px) {
+  .container {
+    height: 95dvh;
+  }
+}
 @media (max-width: 600px) {
   .nombre-alumno {
     font-size: 1.5em; /* Tamaño reducido para dispositivos móviles */
   }
   .container {
-    height: auto;
+    height: 95dvh;
   }
 }
 
